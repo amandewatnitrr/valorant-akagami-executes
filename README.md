@@ -137,8 +137,7 @@ In pistol rounds buy:
 Strategy:
 
 <figure id="fig:screenshot-2026-02-23-at-5" data-latex-placement="h!">
-<img src="./imgs/Screenshot 2026-02-23 at 5.10.22 PM"
-style="width:70.0%" />
+<img src="./imgs/Screenshot 2026-02-23 at 5.10.22 PM" style="width:70.0%" />
 <figcaption>Pistol B - Site Execute</figcaption>
 </figure>
 
@@ -200,8 +199,7 @@ style="width:70.0%" />
 Strategy:
 
 <figure id="fig:screenshot-2026-02-23-at-6" data-latex-placement="h!">
-<img src="./imgs/Screenshot 2026-02-23 at 6.30.43 PM.png"
-style="width:70.0%" />
+<img src="./imgs/Screenshot 2026-02-23 at 6.30.43 PM.png" style="width:70.0%" />
 <figcaption>A2 Execute</figcaption>
 </figure>
 
@@ -223,14 +221,12 @@ style="width:70.0%" />
 - Astra wraps the enemy from mid,as needed.
 
   <figure id="fig:screenshot-2026-02-23-at-6" data-latex-placement="h!">
-  <img src="./imgs/Screenshot 2026-02-23 at 6.41.47 PM"
-  style="width:70.0%" />
+  <img src="./imgs/Screenshot 2026-02-23 at 6.41.47 PM.png" style="width:70.0%" />
   <figcaption>A2 Execute</figcaption>
   </figure>
 
   <figure id="fig:screenshot-2026-02-23-at-7" data-latex-placement="h!">
-  <img src="./imgs/Screenshot 2026-02-23 at 7.04.30 PM.png"
-  style="width:70.0%" />
+  <img src="./imgs/Screenshot 2026-02-23 at 7.04.30 PM.png" style="width:70.0%" />
   <figcaption>A2 Execute</figcaption>
   </figure>
 
@@ -239,8 +235,7 @@ style="width:70.0%" />
 Strategy:
 
 <figure id="fig:screenshot-2026-02-23-at-7" data-latex-placement="h!">
-<img src="./imgs/Screenshot 2026-02-23 at 7.27.41 PM.png"
-style="width:70.0%" />
+<img src="./imgs/Screenshot 2026-02-23 at 7.27.41 PM.png" style="width:70.0%" />
 <figcaption>A3 Execute</figcaption>
 </figure>
 
@@ -279,13 +274,11 @@ style="width:70.0%" />
   site.
 
   <figure id="fig:screenshot-2026-02-23-at-7" data-latex-placement="h!">
-  <img src="./imgs/Screenshot 2026-02-23 at 7.40.22 PM.png"
-  style="width:70.0%" />
+  <img src="./imgs/Screenshot 2026-02-23 at 7.40.22 PM.png" style="width:70.0%" />
   <figcaption>A3 Execute</figcaption>
   </figure>
 
   <figure id="fig:screenshot-2026-02-23-at-7" data-latex-placement="h!">
-  <img src="./imgs/Screenshot 2026-02-23 at 7.48.07 PM.png"
-  style="width:70.0%" />
+  <img src="./imgs/Screenshot 2026-02-23 at 7.48.07 PM.png" style="width:70.0%" />
   <figcaption>A3 Execute</figcaption>
   </figure>
