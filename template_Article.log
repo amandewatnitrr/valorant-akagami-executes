@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.4.7)  26 FEB 2026 01:53
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.4.7)  27 FEB 2026 06:22
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -312,11 +312,39 @@ Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
 (/usr/local/texlive/2023/texmf-dist/tex/latex/fontawesome/fontawesomesymbols-ge
 neric.tex)
 (/usr/local/texlive/2023/texmf-dist/tex/latex/fontawesome/fontawesomesymbols-pd
-ftex.tex))
+ftex.tex)) (/usr/local/texlive/2023/texmf-dist/tex/latex/caption/subcaption.sty
+Package: subcaption 2023/02/19 v1.6 Sub-captions (AR)
+(/usr/local/texlive/2023/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2023/03/12 v3.6j Customizing captions (AR)
+
+(/usr/local/texlive/2023/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2023/03/12 v2.4 caption3 kernel (AR)
+\caption@tempdima=\dimen161
+\captionmargin=\dimen162
+\caption@leftmargin=\dimen163
+\caption@rightmargin=\dimen164
+\caption@width=\dimen165
+\caption@indent=\dimen166
+\caption@parindent=\dimen167
+\caption@hangindent=\dimen168
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count275
+\c@continuedfloat=\count276
+Package caption Info: hyperref package is loaded.
+)
+Package caption Info: New subtype `subfigure' on input line 239.
+\c@subfigure=\count277
+Package caption Info: New subtype `subtable' on input line 239.
+\c@subtable=\count278
+)
+(/usr/local/texlive/2023/texmf-dist/tex/latex/capt-of/capt-of.sty
+Package: capt-of 2009/12/29 v0.2 standard captions outside of floats
+)
 (/usr/local/texlive/2023/texmf-dist/tex/generic/pdftex/glyphtounicode.tex)
 (/usr/local/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2023-01-16 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count275
+\l__color_backend_stack_int=\count279
 \l__pdf_internal_box=\box55
 )
 (./template_Article.aux
@@ -338,39 +366,57 @@ LaTeX Warning: Label `fig:screenshot-2026-02-23-at-7' multiply defined.
 
 LaTeX Warning: Label `fig:screenshot-2026-02-23-at-7' multiply defined.
 
+
+LaTeX Warning: Label `fig:screenshot-2026-02-26-at-3' multiply defined.
+
+
+LaTeX Warning: Label `fig:screenshot-2026-02-26-at-3' multiply defined.
+
+
+LaTeX Warning: Label `fig:screenshot-2026-02-26-at-11' multiply defined.
+
+
+LaTeX Warning: Label `fig:screenshot-2026-02-27-at-6' multiply defined.
+
+
+LaTeX Warning: Label `fig:screenshot-2026-02-27-at-6' multiply defined.
+
+
+LaTeX Warning: Label `fig:screenshot-2026-02-27-at-6' multiply defined.
+
 )
 \openout1 = `template_Article.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 132.
-LaTeX Font Info:    ... okay on input line 132.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 132.
-LaTeX Font Info:    ... okay on input line 132.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 132.
-LaTeX Font Info:    ... okay on input line 132.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 132.
-LaTeX Font Info:    ... okay on input line 132.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 132.
-LaTeX Font Info:    ... okay on input line 132.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 132.
-LaTeX Font Info:    ... okay on input line 132.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 132.
-LaTeX Font Info:    ... okay on input line 132.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 132.
-LaTeX Font Info:    ... okay on input line 132.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 132.
-LaTeX Font Info:    ... okay on input line 132.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 135.
+LaTeX Font Info:    ... okay on input line 135.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 135.
+LaTeX Font Info:    ... okay on input line 135.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 135.
+LaTeX Font Info:    ... okay on input line 135.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 135.
+LaTeX Font Info:    ... okay on input line 135.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 135.
+LaTeX Font Info:    ... okay on input line 135.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 135.
+LaTeX Font Info:    ... okay on input line 135.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 135.
+LaTeX Font Info:    ... okay on input line 135.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 135.
+LaTeX Font Info:    ... okay on input line 135.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 135.
+LaTeX Font Info:    ... okay on input line 135.
  (/usr/local/texlive/2023/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count276
-\scratchdimen=\dimen161
+\scratchcounter=\count280
+\scratchdimen=\dimen169
 \scratchbox=\box56
-\nofMPsegments=\count277
-\nofMParguments=\count278
+\nofMPsegments=\count281
+\nofMParguments=\count282
 \everyMPshowfont=\toks23
-\MPscratchCnt=\count279
-\MPscratchDim=\dimen162
-\MPnumerator=\count280
-\makeMPintoPDFobject=\count281
+\MPscratchCnt=\count283
+\MPscratchDim=\dimen170
+\MPnumerator=\count284
+\makeMPintoPDFobject=\count285
 \everyMPtoPDFconversion=\toks24
 ) (/usr/local/texlive/2023/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
@@ -381,25 +427,27 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-Package hyperref Info: Link coloring OFF on input line 132.
+Package hyperref Info: Link coloring OFF on input line 135.
 
 (./template_Article.out) (./template_Article.out)
 \@outlinefile=\write3
 \openout3 = `template_Article.out'.
 
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
 
 
 LaTeX Font Warning: Font shape `OT1/cmr/bx/sc' undefined
-(Font)              using `OT1/cmr/bx/n' instead on input line 135.
+(Font)              using `OT1/cmr/bx/n' instead on input line 138.
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 135.
+(Font)              <12> on input line 138.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 135.
+(Font)              <8> on input line 138.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 135.
+(Font)              <6> on input line 138.
 LaTeX Font Info:    Trying to load font information for U+lasy on input line 13
-5.
+8.
 (/usr/local/texlive/2023/texmf-dist/tex/latex/base/ulasy.fd
 File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
 ) [1
@@ -413,19 +461,19 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 [2
 
 {/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}]
-<imgs/Screenshot 2026-02-23 at 2.12.40 PM.png, id=50, 611.28375pt x 451.6875p
+<imgs/Screenshot 2026-02-23 at 2.12.40 PM.png, id=62, 611.28375pt x 451.6875p
 t>
 File: imgs/Screenshot 2026-02-23 at 2.12.40 PM.png Graphic file (type png)
 <use imgs/Screenshot 2026-02-23 at 2.12.40 PM.png>
 Package pdftex.def Info: imgs/Screenshot 2026-02-23 at 2.12.40 PM.png  used o
-n input line 207.
+n input line 210.
 (pdftex.def)             Requested size: 379.41585pt x 280.3535pt.
-<imgs/Screenshot 2026-02-26 at 1.33.53 AM.png, id=52, 377.41pt x 153.57375pt>
+<imgs/Screenshot 2026-02-26 at 1.33.53 AM.png, id=64, 377.41pt x 153.57375pt>
 
 File: imgs/Screenshot 2026-02-26 at 1.33.53 AM.png Graphic file (type png)
 <use imgs/Screenshot 2026-02-26 at 1.33.53 AM.png>
 Package pdftex.def Info: imgs/Screenshot 2026-02-26 at 1.33.53 AM.png  used o
-n input line 214.
+n input line 217.
 (pdftex.def)             Requested size: 379.41585pt x 154.38884pt.
 
 
@@ -437,22 +485,22 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 
  <./imgs/Screenshot 2026-02-23 at 2.12.40 PM.png> <./imgs/Screenshot 2026-02-
 26 at 1.33.53 AM.png>]
-<imgs/Screenshot 2026-02-23 at 4.44.10 PM.png, id=62, 646.415pt x 364.36125pt
+<imgs/Screenshot 2026-02-23 at 4.44.10 PM.png, id=74, 646.415pt x 364.36125pt
 >
 File: imgs/Screenshot 2026-02-23 at 4.44.10 PM.png Graphic file (type png)
 <use imgs/Screenshot 2026-02-23 at 4.44.10 PM.png>
 Package pdftex.def Info: imgs/Screenshot 2026-02-23 at 4.44.10 PM.png  used o
-n input line 229.
+n input line 232.
 (pdftex.def)             Requested size: 379.41585pt x 213.86488pt.
-<imgs/Screenshot 2026-02-23 at 5.10.22 PM.png, id=63, 569.12625pt x 278.03876
+<imgs/Screenshot 2026-02-23 at 5.10.22 PM.png, id=75, 569.12625pt x 278.03876
 pt>
 File: imgs/Screenshot 2026-02-23 at 5.10.22 PM.png Graphic file (type png)
 <use imgs/Screenshot 2026-02-23 at 5.10.22 PM.png>
 Package pdftex.def Info: imgs/Screenshot 2026-02-23 at 5.10.22 PM.png  used o
-n input line 247.
+n input line 250.
 (pdftex.def)             Requested size: 379.41585pt x 185.36436pt.
 
-Overfull \hbox (27.37506pt too wide) in paragraph at lines 259--261
+Overfull \hbox (27.37506pt too wide) in paragraph at lines 262--264
 []  
  []
 
@@ -471,31 +519,31 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                \setlength{\footskip}{4.08003pt}.
 
 [5]
-<imgs/Screenshot 2026-02-23 at 5.38.13 PM.png, id=76, 485.815pt x 378.41376pt
+<imgs/Screenshot 2026-02-23 at 5.38.13 PM.png, id=88, 485.815pt x 378.41376pt
 >
 File: imgs/Screenshot 2026-02-23 at 5.38.13 PM.png Graphic file (type png)
 <use imgs/Screenshot 2026-02-23 at 5.38.13 PM.png>
 Package pdftex.def Info: imgs/Screenshot 2026-02-23 at 5.38.13 PM.png  used o
-n input line 275.
+n input line 278.
 (pdftex.def)             Requested size: 379.41585pt x 295.53685pt.
 
-Overfull \hbox (27.37506pt too wide) in paragraph at lines 283--285
+Overfull \hbox (27.37506pt too wide) in paragraph at lines 286--288
 []  
  []
 
-<imgs/Screenshot 2026-02-23 at 6.11.10 PM.png, id=77, 270.00874pt x 224.84pt>
+<imgs/Screenshot 2026-02-23 at 6.11.10 PM.png, id=89, 270.00874pt x 224.84pt>
 
 File: imgs/Screenshot 2026-02-23 at 6.11.10 PM.png Graphic file (type png)
 <use imgs/Screenshot 2026-02-23 at 6.11.10 PM.png>
 Package pdftex.def Info: imgs/Screenshot 2026-02-23 at 6.11.10 PM.png  used o
-n input line 292.
+n input line 295.
 (pdftex.def)             Requested size: 162.60915pt x 135.40936pt.
-<imgs/Screenshot 2026-02-23 at 6.30.43 PM.png, id=78, 493.845pt x 415.5525pt>
+<imgs/Screenshot 2026-02-23 at 6.30.43 PM.png, id=90, 493.845pt x 415.5525pt>
 
 File: imgs/Screenshot 2026-02-23 at 6.30.43 PM.png Graphic file (type png)
 <use imgs/Screenshot 2026-02-23 at 6.30.43 PM.png>
 Package pdftex.def Info: imgs/Screenshot 2026-02-23 at 6.30.43 PM.png  used o
-n input line 306.
+n input line 309.
 (pdftex.def)             Requested size: 379.41585pt x 319.2599pt.
 
 Package fancyhdr Warning: \footskip is too small (0.0pt): 
@@ -504,26 +552,26 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 
 [6 <./imgs/Screenshot 2026-02-23 at 5.38.13 PM.png> <./imgs/Screenshot 2026-0
 2-23 at 6.11.10 PM.png>]
-Overfull \hbox (27.37506pt too wide) in paragraph at lines 315--317
+Overfull \hbox (27.37506pt too wide) in paragraph at lines 318--320
 []  
  []
 
-<imgs/Screenshot 2026-02-23 at 6.41.47 PM.png, id=87, 447.6725pt x 331.2375pt
+<imgs/Screenshot 2026-02-23 at 6.41.47 PM.png, id=99, 447.6725pt x 331.2375pt
 >
 File: imgs/Screenshot 2026-02-23 at 6.41.47 PM.png Graphic file (type png)
 <use imgs/Screenshot 2026-02-23 at 6.41.47 PM.png>
 Package pdftex.def Info: imgs/Screenshot 2026-02-23 at 6.41.47 PM.png  used o
-n input line 323.
+n input line 326.
 (pdftex.def)             Requested size: 379.41585pt x 280.73946pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<imgs/Screenshot 2026-02-23 at 7.04.30 PM.png, id=88, 439.6425pt x 302.12875p
-t>
+<imgs/Screenshot 2026-02-23 at 7.04.30 PM.png, id=100, 439.6425pt x 302.12875
+pt>
 File: imgs/Screenshot 2026-02-23 at 7.04.30 PM.png Graphic file (type png)
 <use imgs/Screenshot 2026-02-23 at 7.04.30 PM.png>
 Package pdftex.def Info: imgs/Screenshot 2026-02-23 at 7.04.30 PM.png  used o
-n input line 330.
+n input line 333.
 (pdftex.def)             Requested size: 379.41585pt x 260.74768pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
@@ -541,39 +589,39 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 
 [8 <./imgs/Screenshot 2026-02-23 at 6.41.47 PM.png> <./imgs/Screenshot 2026-0
 2-23 at 7.04.30 PM.png>]
-<imgs/Screenshot 2026-02-23 at 7.27.41 PM.png, id=104, 693.59125pt x 385.44pt
+<imgs/Screenshot 2026-02-23 at 7.27.41 PM.png, id=116, 693.59125pt x 385.44pt
 >
 File: imgs/Screenshot 2026-02-23 at 7.27.41 PM.png Graphic file (type png)
 <use imgs/Screenshot 2026-02-23 at 7.27.41 PM.png>
 Package pdftex.def Info: imgs/Screenshot 2026-02-23 at 7.27.41 PM.png  used o
-n input line 345.
+n input line 348.
 (pdftex.def)             Requested size: 379.41585pt x 210.85167pt.
 
-Overfull \hbox (27.37506pt too wide) in paragraph at lines 357--359
+Overfull \hbox (27.37506pt too wide) in paragraph at lines 360--362
 []  
  []
 
 
-Overfull \hbox (27.37506pt too wide) in paragraph at lines 362--364
+Overfull \hbox (27.37506pt too wide) in paragraph at lines 365--367
 []  
  []
 
-<imgs/Screenshot 2026-02-23 at 7.40.22 PM.png, id=105, 615.29875pt x 431.6125
+<imgs/Screenshot 2026-02-23 at 7.40.22 PM.png, id=117, 615.29875pt x 431.6125
 pt>
 File: imgs/Screenshot 2026-02-23 at 7.40.22 PM.png Graphic file (type png)
 <use imgs/Screenshot 2026-02-23 at 7.40.22 PM.png>
 Package pdftex.def Info: imgs/Screenshot 2026-02-23 at 7.40.22 PM.png  used o
-n input line 369.
+n input line 372.
 (pdftex.def)             Requested size: 379.41585pt x 266.15466pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<imgs/Screenshot 2026-02-23 at 7.48.07 PM.png, id=106, 598.235pt x 326.21875p
+<imgs/Screenshot 2026-02-23 at 7.48.07 PM.png, id=118, 598.235pt x 326.21875p
 t>
 File: imgs/Screenshot 2026-02-23 at 7.48.07 PM.png Graphic file (type png)
 <use imgs/Screenshot 2026-02-23 at 7.48.07 PM.png>
 Package pdftex.def Info: imgs/Screenshot 2026-02-23 at 7.48.07 PM.png  used o
-n input line 376.
+n input line 379.
 (pdftex.def)             Requested size: 379.41585pt x 206.8977pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
@@ -592,7 +640,164 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                \setlength{\footskip}{4.08003pt}.
 
 [10 <./imgs/Screenshot 2026-02-23 at 7.40.22 PM.png> <./imgs/Screenshot 2026-
-02-23 at 7.48.07 PM.png>] (./template_Article.aux)
+02-23 at 7.48.07 PM.png>]
+<imgs/Screenshot 2026-02-26 at 2.41.20 AM.png, id=133, 392.46625pt x 419.5675
+pt>
+File: imgs/Screenshot 2026-02-26 at 2.41.20 AM.png Graphic file (type png)
+<use imgs/Screenshot 2026-02-26 at 2.41.20 AM.png>
+Package pdftex.def Info: imgs/Screenshot 2026-02-26 at 2.41.20 AM.png  used o
+n input line 400.
+(pdftex.def)             Requested size: 379.41585pt x 405.64194pt.
+
+
+Package fancyhdr Warning: \footskip is too small (0.0pt): 
+(fancyhdr)                Make it at least 4.08003pt, for example:
+(fancyhdr)                \setlength{\footskip}{4.08003pt}.
+
+[11
+
+ <./imgs/Screenshot 2026-02-26 at 2.41.20 AM.png>]
+<imgs/Screenshot 2026-02-26 at 3.18.48 AM.png, id=140, 249.93375pt x 250.9375
+pt>
+File: imgs/Screenshot 2026-02-26 at 3.18.48 AM.png Graphic file (type png)
+<use imgs/Screenshot 2026-02-26 at 3.18.48 AM.png>
+Package pdftex.def Info: imgs/Screenshot 2026-02-26 at 3.18.48 AM.png  used o
+n input line 415.
+(pdftex.def)             Requested size: 216.80669pt x 217.6859pt.
+<imgs/Screenshot 2026-02-26 at 3.42.30 AM.png, id=141, 480.79625pt x 278.0387
+6pt>
+File: imgs/Screenshot 2026-02-26 at 3.42.30 AM.png Graphic file (type png)
+<use imgs/Screenshot 2026-02-26 at 3.42.30 AM.png>
+Package pdftex.def Info: imgs/Screenshot 2026-02-26 at 3.42.30 AM.png  used o
+n input line 426.
+(pdftex.def)             Requested size: 271.0125pt x 156.72733pt.
+File: imgs/Screenshot 2026-02-26 at 3.42.30 AM.png Graphic file (type png)
+<use imgs/Screenshot 2026-02-26 at 3.42.30 AM.png>
+Package pdftex.def Info: imgs/Screenshot 2026-02-26 at 3.42.30 AM.png  used o
+n input line 435.
+(pdftex.def)             Requested size: 271.0125pt x 156.72733pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<imgs/Screenshot 2026-02-26 at 4.01.36 AM.png, id=142, 211.79124pt x 283.0575
+pt>
+File: imgs/Screenshot 2026-02-26 at 4.01.36 AM.png Graphic file (type png)
+<use imgs/Screenshot 2026-02-26 at 4.01.36 AM.png>
+Package pdftex.def Info: imgs/Screenshot 2026-02-26 at 4.01.36 AM.png  used o
+n input line 442.
+(pdftex.def)             Requested size: 271.0125pt x 362.22163pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Package fancyhdr Warning: \footskip is too small (0.0pt): 
+(fancyhdr)                Make it at least 4.08003pt, for example:
+(fancyhdr)                \setlength{\footskip}{4.08003pt}.
+
+[12
+
+ <./imgs/Screenshot 2026-02-26 at 3.18.48 AM.png> <./imgs/Screenshot 2026-02-
+26 at 3.42.30 AM.png>]
+
+Package fancyhdr Warning: \footskip is too small (0.0pt): 
+(fancyhdr)                Make it at least 4.08003pt, for example:
+(fancyhdr)                \setlength{\footskip}{4.08003pt}.
+
+[13 <./imgs/Screenshot 2026-02-26 at 4.01.36 AM.png>]
+<imgs/Screenshot 2026-02-26 at 11.44.23 PM.png, id=159, 180.675pt x 205.76875
+pt>
+File: imgs/Screenshot 2026-02-26 at 11.44.23 PM.png Graphic file (type png)
+<use imgs/Screenshot 2026-02-26 at 11.44.23 PM.png>
+Package pdftex.def Info: imgs/Screenshot 2026-02-26 at 11.44.23 PM.png  used 
+on input line 458.
+(pdftex.def)             Requested size: 216.80669pt x 246.92125pt.
+<imgs/Screenshot 2026-02-26 at 11.55.07 PM.png, id=160, 383.4325pt x 354.3237
+5pt>
+File: imgs/Screenshot 2026-02-26 at 11.55.07 PM.png Graphic file (type png)
+<use imgs/Screenshot 2026-02-26 at 11.55.07 PM.png>
+Package pdftex.def Info: imgs/Screenshot 2026-02-26 at 11.55.07 PM.png  used 
+on input line 465.
+(pdftex.def)             Requested size: 216.80669pt x 200.35007pt.
+
+
+Package fancyhdr Warning: \footskip is too small (0.0pt): 
+(fancyhdr)                Make it at least 4.08003pt, for example:
+(fancyhdr)                \setlength{\footskip}{4.08003pt}.
+
+[14
+
+ <./imgs/Screenshot 2026-02-26 at 11.44.23 PM.png> <./imgs/Screenshot 2026-02
+-26 at 11.55.07 PM.png>]
+<imgs/Screenshot 2026-02-27 at 6.05.00 AM.png, id=169, 202.7575pt x 234.8775p
+t>
+File: imgs/Screenshot 2026-02-27 at 6.05.00 AM.png Graphic file (type png)
+<use imgs/Screenshot 2026-02-27 at 6.05.00 AM.png>
+Package pdftex.def Info: imgs/Screenshot 2026-02-27 at 6.05.00 AM.png  used o
+n input line 492.
+(pdftex.def)             Requested size: 162.60915pt x 188.37532pt.
+<imgs/Screenshot 2026-02-27 at 6.06.09 AM.png, id=170, 117.43875pt x 89.33376
+pt>
+File: imgs/Screenshot 2026-02-27 at 6.06.09 AM.png Graphic file (type png)
+<use imgs/Screenshot 2026-02-27 at 6.06.09 AM.png>
+Package pdftex.def Info: imgs/Screenshot 2026-02-27 at 6.06.09 AM.png  used o
+n input line 499.
+(pdftex.def)             Requested size: 162.60915pt x 123.69508pt.
+
+
+Package fancyhdr Warning: \footskip is too small (0.0pt): 
+(fancyhdr)                Make it at least 4.08003pt, for example:
+(fancyhdr)                \setlength{\footskip}{4.08003pt}.
+
+[15
+
+ <./imgs/Screenshot 2026-02-27 at 6.05.00 AM.png> <./imgs/Screenshot 2026-02-
+27 at 6.06.09 AM.png>]
+<imgs/Screenshot 2026-02-27 at 6.07.18 AM.png, id=180, 240.9pt x 351.3125pt>
+File: imgs/Screenshot 2026-02-27 at 6.07.18 AM.png Graphic file (type png)
+<use imgs/Screenshot 2026-02-27 at 6.07.18 AM.png>
+Package pdftex.def Info: imgs/Screenshot 2026-02-27 at 6.07.18 AM.png  used o
+n input line 509.
+(pdftex.def)             Requested size: 162.60915pt x 237.14177pt.
+<imgs/Screenshot 2026-02-27 at 6.09.50 AM.png, id=181, 142.5325pt x 181.67876
+pt>
+File: imgs/Screenshot 2026-02-27 at 6.09.50 AM.png Graphic file (type png)
+<use imgs/Screenshot 2026-02-27 at 6.09.50 AM.png>
+Package pdftex.def Info: imgs/Screenshot 2026-02-27 at 6.09.50 AM.png  used o
+n input line 523.
+(pdftex.def)             Requested size: 130.08484pt x 165.81305pt.
+<imgs/Screenshot 2026-02-27 at 6.10.36 AM.png, id=182, 185.69376pt x 175.6562
+5pt>
+File: imgs/Screenshot 2026-02-27 at 6.10.36 AM.png Graphic file (type png)
+<use imgs/Screenshot 2026-02-27 at 6.10.36 AM.png>
+Package pdftex.def Info: imgs/Screenshot 2026-02-27 at 6.10.36 AM.png  used o
+n input line 530.
+(pdftex.def)             Requested size: 130.08484pt x 123.05501pt.
+
+
+Package fancyhdr Warning: \footskip is too small (0.0pt): 
+(fancyhdr)                Make it at least 4.08003pt, for example:
+(fancyhdr)                \setlength{\footskip}{4.08003pt}.
+
+[16
+
+ <./imgs/Screenshot 2026-02-27 at 6.07.18 AM.png> <./imgs/Screenshot 2026-02-
+27 at 6.09.50 AM.png> <./imgs/Screenshot 2026-02-27 at 6.10.36 AM.png>]
+<imgs/Screenshot 2026-02-27 at 6.22.00 AM.png, id=192, 208.78pt x 204.765pt>
+File: imgs/Screenshot 2026-02-27 at 6.22.00 AM.png Graphic file (type png)
+<use imgs/Screenshot 2026-02-27 at 6.22.00 AM.png>
+Package pdftex.def Info: imgs/Screenshot 2026-02-27 at 6.22.00 AM.png  used o
+n input line 544.
+(pdftex.def)             Requested size: 216.80669pt x 212.6506pt.
+
+
+Package fancyhdr Warning: \footskip is too small (0.0pt): 
+(fancyhdr)                Make it at least 4.08003pt, for example:
+(fancyhdr)                \setlength{\footskip}{4.08003pt}.
+
+[17
+
+ <./imgs/Screenshot 2026-02-27 at 6.22.00 AM.png>] (./template_Article.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
@@ -600,26 +805,26 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 LaTeX Warning: There were multiply-defined labels.
 
 Package rerunfilecheck Info: File `template_Article.out' has not changed.
-(rerunfilecheck)             Checksum: F6B84D89185682037509B11BF1D28B9A;1196.
+(rerunfilecheck)             Checksum: 90EB4EF69B75AFFC5A2484FEA06CD88F;1850.
  ) 
 Here is how much of TeX's memory you used:
- 12476 strings out of 476025
- 202782 string characters out of 5790018
+ 14123 strings out of 476025
+ 239809 string characters out of 5790018
  1867388 words of memory out of 5000000
- 32702 multiletter control sequences out of 15000+600000
+ 34281 multiletter control sequences out of 15000+600000
  518113 words of font info for 53 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,11n,76p,382b,560s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,11n,77p,382b,604s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 ></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
 </usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb>
 </usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></
 usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></us
 r/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb>
-Output written on template_Article.pdf (10 pages, 1341753 bytes).
+Output written on template_Article.pdf (17 pages, 2032004 bytes).
 PDF statistics:
- 159 PDF objects out of 1000 (max. 8388607)
- 109 compressed objects within 2 object streams
- 31 named destinations out of 1000 (max. 500000)
- 125 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 241 PDF objects out of 1000 (max. 8388607)
+ 160 compressed objects within 2 object streams
+ 53 named destinations out of 1000 (max. 500000)
+ 209 words of extra memory for PDF output out of 10000 (max. 10000000)
 
