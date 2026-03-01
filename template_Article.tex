@@ -23,6 +23,39 @@
 \usepackage{graphicx}
 \usepackage{subcaption} % for subfigure
 \usepackage{capt-of} % or \usepackage{caption}
+\usepackage{xcolor}
+\usepackage{listings}
+\usepackage{imakeidx}
+\usepackage{titlesec}
+\usepackage{float}
+% Auto-index section and subsection titles:
+\usepackage{etoolbox}
+\makeindex[intoc=false, columns=2, title=Index]
+\pretocmd{\section}{\index{#1}}{}{}
+\pretocmd{\subsection}{\index{#1}}{}{}
+%\pretocmd{\section}{\index{#1}}{}{}
+%\pretocmd{\subsection}{\index{\thesection\space #1@\nameref{sec:\thesection}!#1}}{}{}
+
+
+
+\newcommand{\PrintIndexSecondPage}{%
+	\clearpage            % finish page 1
+	\thispagestyle{plain} % or empty, as you prefer
+	\printindex           % prints the index here (this becomes page 2)
+	\clearpage            % next content starts after the index
+}
+
+\lstset{
+	basicstyle=\ttfamily\small,
+	keywordstyle=\color{blue},
+	commentstyle=\color{gray},
+	stringstyle=\color{teal},
+	numbers=left,
+	numberstyle=\tiny\color{gray},
+	breaklines=true,
+	frame=single,
+	tabsize=2
+}
 \input{glyphtounicode}
 
 
@@ -128,6 +161,8 @@
 	\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
 
 
+
+
 %opening
 \title{\textbf{\LARGE \scshape Valorant - Akagami Exectues}}
 \author{Aman Kumar Dewangan}
@@ -142,7 +177,17 @@ This document discusses the valorant executes for all the maps. And, role divisi
 
 \clearpage
 
-\section{\textbf{\LARGE \scshape Team Role distribution}}
+
+% --- Page 2 (forced Index) ---
+\thispagestyle{plain}
+\tableofcontents
+\clearpage
+
+
+
+
+
+\section{\textbf{Team Role distribution}}
 
 \begin{itemize}[left=0.15in, itemsep=-4pt]
 	
@@ -160,7 +205,7 @@ This document discusses the valorant executes for all the maps. And, role divisi
 
 \end{itemize}
 
-\section{\textbf{\LARGE \scshape Map Ban \& Advantages}}
+\section{\textbf{Map Ban \& Advantages}}
 
 \begin{itemize}[left=0.15in, itemsep=-4pt]
 \item Abyss - Ban
@@ -179,7 +224,7 @@ This document discusses the valorant executes for all the maps. And, role divisi
 \end{itemize}
 
 \begin{center}
-\section{\textbf{\LARGE \scshape Agent Composition for each map}}
+\section{\textbf{Agent Composition for each map}}
 \end{center}
 
 \begin{itemize}[left=0.15in, itemsep=-4pt]
@@ -201,7 +246,9 @@ This document discusses the valorant executes for all the maps. And, role divisi
 
 \title{\textbf{\LARGE \scshape Executes for Valorant Comp}}
 
-\section{Breeze(A)}
+\section{Breeze(A) - Jett, Astra, Viper, Sova, Cypher}
+
+\subsection{Attack Side}
 
 Basic Rules - Base Conditions:
 
@@ -225,7 +272,7 @@ Basic Rules - Base Conditions:
 
 \clearpage
 
-\subsection{Pistol Round - Attack - B site Only}
+\subsubsection{Pistol Round - Attack - B site Only}
 
 \begin{figure}[h!]
 	\centering
@@ -269,7 +316,7 @@ Strategy:
 
 \newpage
 
-\subsection{A1 Execute}
+\subsubsection{A1 Execute}
 
 Strategy:
 
@@ -300,7 +347,7 @@ Strategy:
 \end{itemize}
 
 
-\subsection{A2 Execute}
+\subsubsection{A2 Execute}
 
 Strategy:
 
@@ -339,7 +386,7 @@ Strategy:
 
 \clearpage
 
-\subsection{A3 Execute}
+\subsubsection{A3 Execute}
 
 Strategy:
 
@@ -385,7 +432,7 @@ Strategy:
 
 \clearpage
 
-\subsection{B1 Execute}
+\subsubsection{B1 Execute}
 
 Strategy:
 
@@ -451,14 +498,30 @@ Strategy:
 
 \section{Breeze(A)- Yoru, Astra, Harbour, Sova, Cypher}
 
+\subsection{Attack Side}
+
 Basic Rules - Base Conditions:
 
 \begin{figure}[h!]
 	\centering
-	\includegraphics[width=0.4\textwidth]{"imgs/Screenshot 2026-02-26 at 11.44.23 PM"}
-	\caption{Harbour Wall for Mid control on attack.}
-	\label{fig:screenshot-2026-02-26-at-11}
+	
+	\begin{subfigure}[t]{0.296\textwidth}
+		\centering
+		\includegraphics[width=0.8\textwidth]{"imgs/Screenshot 2026-02-26 at 11.44.23 PM"}
+		\caption{Pistol B - Site Execute}
+		\label{fig:pistol-b-execute-1}
+	\end{subfigure}\hspace{0.5em}
+	\begin{subfigure}[t]{0.38\textwidth}
+		\centering
+		\includegraphics[width=0.7\linewidth]{"imgs/Screenshot 2026-02-27 at 6.42.16 AM"}
+		\caption{Pistol B - Site Execute}
+		\label{fig:pistol-b-execute-2}
+	\end{subfigure}
+	
+	\caption{Harbour Mid walls for Attack}
+	\label{fig:pistol-b-execute}
 \end{figure}
+
 
 \begin{figure}[h!]
 	\centering
@@ -469,7 +532,7 @@ Basic Rules - Base Conditions:
 
 \clearpage
 
-\subsection{Pistol Round - Attack - B site Only}
+\subsubsection{Pistol Round - Attack - B site Only}
 
 In pistol rounds buy:
 \begin{itemize}
@@ -493,7 +556,7 @@ Strategy:
 		\caption{Pistol B - Site Execute}
 		\label{fig:screenshot-2026-02-27-at-6}
 	\end{figure}
-	\item Astra smokes B main. If `B main` is already smoked as per our needs, no need to smoke it. 
+	\item \textbf{Astra smokes B main. If `B main` is already smoked as per our needs, no need to smoke it.}
 	\begin{figure}[h!]
 		\centering
 		\includegraphics[width=0.3\textwidth]{"imgs/Screenshot 2026-02-27 at 6.06.09 AM"}
@@ -514,20 +577,20 @@ Strategy:
 	% preamble:
 	% \usepackage{graphicx}
 	% \usepackage{subcaption}
-	
+
+
 	\begin{figure}[h!]
 		\centering
 		
-		\begin{subfigure}[t]{0.48\textwidth}
+		\begin{subfigure}[t]{0.296\textwidth}
 			\centering
-			\includegraphics[width=0.5\linewidth]{"imgs/Screenshot 2026-02-27 at 6.09.50 AM"}
+			\includegraphics[width=\linewidth]{"imgs/Screenshot 2026-02-27 at 6.09.50 AM"}
 			\caption{Pistol B - Site Execute}
 			\label{fig:pistol-b-execute-1}
-		\end{subfigure}\hfill
-	
-		\begin{subfigure}[t]{0.48\textwidth}
+		\end{subfigure}\hspace{0.5em}
+		\begin{subfigure}[t]{0.4\textwidth}
 			\centering
-			\includegraphics[width=0.5\linewidth]{"imgs/Screenshot 2026-02-27 at 6.10.36 AM"}
+			\includegraphics[width=\linewidth]{"imgs/Screenshot 2026-02-27 at 6.10.36 AM"}
 			\caption{Pistol B - Site Execute}
 			\label{fig:pistol-b-execute-2}
 		\end{subfigure}
@@ -536,18 +599,241 @@ Strategy:
 		\label{fig:pistol-b-execute}
 	\end{figure}
 
-\clearpage
+	\clearpage
 
 	\item Astra smokes CT. Harbour smokes B mid link.
+	
 	\begin{figure}
 		\centering
 		\includegraphics[width=0.4\linewidth]{"imgs/Screenshot 2026-02-27 at 6.22.00 AM"}
 		\caption{}
 		\label{fig:screenshot-2026-02-27-at-6}
 	\end{figure}
+
 	
 \end{itemize}
 
+\newpage
+
+\subsubsection{A1 Execute}
+
+Strategy:
+
+\begin{itemize}
+	
+	\item Sova drones A Lobby/Entry for close fights, and checks for anyone in the site. Meanwhile, at the same time Harbour starts deploying the wall. Astra holds for Sova, beside Yoru to fight any push if coming.
+	
+	\begin{figure}[h!]
+		\centering
+		\includegraphics[width=0.4\linewidth]{"imgs/Screenshot 2026-02-27 at 7.45.05 AM"}
+		\captionof{figure}{A1 Execute}
+		\label{fig:screenshot-2026-02-27-at-7}
+	\end{figure}
+	
+	\item Team walks into A entry, takes position for the Utility. Or, if we don't want to use Harbour smoke, use Yoru flash, and a low power Sova recon to clear front site.
+	
+		\begin{figure}[h!]
+		\centering
+		
+		\begin{subfigure}[t]{0.296\textwidth}
+			\centering
+			\includegraphics[width=1\linewidth]{"imgs/Screenshot 2026-02-27 at 7.53.47 AM"}
+			\caption{A1 Execute}
+			\label{fig:pistol-b-execute-1}
+		\end{subfigure}\hspace{0.5em}
+		\begin{subfigure}[t]{0.4\textwidth}
+			\centering
+			\includegraphics[width=0.85\linewidth]{"imgs/Screenshot 2026-02-27 at 8.02.32 AM"}
+			\caption{The same can be done without a Harbour smoke like this where Harbour \& Sova sync and use utility together.}
+			\label{fig:pistol-b-execute-2}
+		\end{subfigure}
+		
+		\caption{A1 Execute}
+		\label{fig:pistol-b-execute}
+	\end{figure}
+	
+	\clearpage
+	
+	\item If using \textbf{Harbour smoke technique, Sova recon Yoru flash goes at the same time, along with Storm Sludge and, Astra pull.}
+	\item  But if entering without Harbour smoke, just use Storm Sludge, and Pull still on same location.
+	\begin{figure}[h!]
+		\centering
+		\includegraphics[width=0.3\linewidth]{"imgs/Screenshot 2026-02-27 at 8.11.19 AM"}
+		\caption{Yoru can use his teleport if he wants to. Not compulsory.}
+		\label{fig:screenshot-2026-02-27-at-8}
+	\end{figure}
+
+	\item  Harbour clears left. Yoru clears right. And, the team follows. Sova while running shock darts the location where we pulled.
+	\begin{figure}[h!]
+		\centering
+		\includegraphics[width=0.2\linewidth]{"imgs/Screenshot 2026-02-27 at 8.13.52 AM"}
+		\caption{A1 Execute - Hard clear cubby}
+		\label{fig:screenshot-2026-02-27-at-8}
+	\end{figure}
+	\item Astra refreshes the smoke, stays outside site for post plant. Yoru holds off angle back site. Harbour plants the spike to farm ultimate.
+	\begin{figure}[h!]
+		\centering
+		\includegraphics[width=0.3\linewidth]{"imgs/Screenshot 2026-02-27 at 8.16.50 AM"}
+		\caption{A1 Execute}
+		\label{fig:screenshot-2026-02-27-at-8}
+	\end{figure}
+	
+	
+	
+\end{itemize}
+
+
+\subsubsection{A2 Execute}
+
+Strategy:
+
+\begin{itemize}
+	
+	\item Sova \& Harbor position mid for mid control to A. Yoru, Astra \& Cypher go A main, making lots of sound.
+	
+	\begin{figure}[h!]
+		\centering
+		\includegraphics[width=0.4\linewidth]{"imgs/Screenshot 2026-02-28 at 4.42.28 AM"}
+		\caption{A2 Execute}
+		\label{fig:screenshot-2026-02-28-at-4}
+	\end{figure}
+		
+	\item Harbor smokes top mid close using cove \& covers sova, meanwhile sova shock darts the mid A link to scare off, or push back the defender on mid. By this time A main players check with Cypher camera.
+	
+	\begin{figure}[h!]
+		\centering
+		\includegraphics[width=0.5\linewidth]{"imgs/Screenshot 2026-02-28 at 4.48.19 AM"}
+		\caption{A2 Execute}
+		\label{fig:screenshot-2026-02-28-at-4}
+	\end{figure}
+
+	\item Than Yoru, flashes A main close to scare off the possible Operator player if any. Cypher recollects camera back for later use. Harbor, \& Sova must call if they have got A mid link, if not or heavy resistance, will change the plans as needed on fly.
+	
+	\begin{figure}[h!]
+		\centering
+		\includegraphics[width=0.3\linewidth]{"imgs/Screenshot 2026-02-28 at 4.54.56 AM"}
+		\caption{A2 Execute}
+		\label{fig:screenshot-2026-02-28-at-4}
+	\end{figure}
+	
+	\clearpage
+	
+	\item If the area is obtained. Harbor does the High tide wall, and calls out as it's deployed. Yoru instantly sends his teleport in the site.
+	
+	\begin{figure}[h!]
+		\centering
+		\includegraphics[width=0.3\linewidth]{"imgs/Screenshot 2026-02-28 at 4.53.14 AM"}
+		\caption{A2 Execute}
+		\label{fig:screenshot-2026-02-28-at-4}
+	\end{figure}
+	
+	\item Once, the teleport reaches the desired position, \textbf{Yoru says the word "FLASHING", Astra stuns inside the site on cubby, Sova recons, Harbor uses the Storm Sludge, and Yoru teleports at the spot}
+	
+	\begin{figure}[h!]
+		\centering
+		\includegraphics[width=0.3\linewidth]{"imgs/Screenshot 2026-02-28 at 5.00.24 AM"}
+		\caption{Yoru can use his teleport if he wants to. Not compulsory.}
+		\label{fig:screenshot-2026-02-28-at-5}
+	\end{figure}
+	
+	\item  Harbour clears right. Yoru clears left. Astra \& Cypher cover site for Yoru, and also clear left if any.
+	\begin{figure}[h!]
+		\centering
+		\includegraphics[width=0.2\linewidth]{"imgs/Screenshot 2026-02-28 at 5.02.08 AM"}
+		\caption{A2 Execute - Hard clear angles}
+		\label{fig:screenshot-2026-02-28-at-5}
+	\end{figure}
+
+\clearpage
+
+	\item Everyone clears site, choke points and angles \& than plant the spike.
+	\begin{figure}[h!]
+		\centering
+		\includegraphics[width=0.3\linewidth]{"imgs/Screenshot 2026-02-28 at 5.07.34 AM"}
+		\caption{A1 Execute}
+		\label{fig:screenshot-2026-02-28-at-5}
+	\end{figure}
+	
+	
+	
+\end{itemize}
+
+\clearpage
+
+\subsubsection{A3 Execute}
+
+Strategy:
+
+\begin{itemize}
+	
+	\item Sova \& Harbor position mid for mid control to A. Yoru, Astra \& Cypher go A main, making lots of sound.
+	
+	\begin{figure}[h!]
+		\centering
+		\includegraphics[width=0.4\linewidth]{"imgs/Screenshot 2026-02-28 at 4.42.28 AM"}
+		\caption{A2 Execute}
+		\label{fig:screenshot-2026-02-28-at-4}
+	\end{figure}
+	
+	\item Harbor smokes top mid close using cove \& covers sova, meanwhile sova shock darts the mid A link to scare off, or push back the defender on mid. By this time A main players check with Cypher camera.
+	
+	\begin{figure}[h!]
+		\centering
+		\includegraphics[width=0.5\linewidth]{"imgs/Screenshot 2026-02-28 at 4.48.19 AM"}
+		\caption{A2 Execute}
+		\label{fig:screenshot-2026-02-28-at-4}
+	\end{figure}
+	
+	\item Than Yoru, flashes A main close to scare off the possible Operator player if any. Cypher recollects camera back for later use. Harbor, \& Sova must call if they have got A mid link, if not or heavy resistance, will change the plans as needed on fly.
+	
+	\begin{figure}[h!]
+		\centering
+		\includegraphics[width=0.3\linewidth]{"imgs/Screenshot 2026-02-28 at 4.54.56 AM"}
+		\caption{A2 Execute}
+		\label{fig:screenshot-2026-02-28-at-4}
+	\end{figure}
+	
+	\clearpage
+	
+	\item If the area is obtained. Harbor does the High tide wall, and calls out as it's deployed. Yoru instantly sends his teleport in the site.
+	
+	\begin{figure}[h!]
+		\centering
+		\includegraphics[width=0.3\linewidth]{"imgs/Screenshot 2026-02-28 at 4.53.14 AM"}
+		\caption{A2 Execute}
+		\label{fig:screenshot-2026-02-28-at-4}
+	\end{figure}
+	
+	\item Once, the teleport reaches the desired position, \textbf{Yoru says the word "FLASHING", Astra stuns inside the site on cubby, Sova recons, Harbor uses the Storm Sludge, and Yoru teleports at the spot}
+	
+	\begin{figure}[h!]
+		\centering
+		\includegraphics[width=0.3\linewidth]{"imgs/Screenshot 2026-02-28 at 5.00.24 AM"}
+		\caption{Yoru can use his teleport if he wants to. Not compulsory.}
+		\label{fig:screenshot-2026-02-28-at-5}
+	\end{figure}
+	
+	\item  Harbour clears right. Yoru clears left. Astra \& Cypher cover site for Yoru, and also clear left if any.
+	\begin{figure}[h!]
+		\centering
+		\includegraphics[width=0.2\linewidth]{"imgs/Screenshot 2026-02-28 at 5.02.08 AM"}
+		\caption{A2 Execute - Hard clear angles}
+		\label{fig:screenshot-2026-02-28-at-5}
+	\end{figure}
+	
+	\clearpage
+	
+	\item Everyone clears site, choke points and angles \& than plant the spike.
+	\begin{figure}[h!]
+		\centering
+		\includegraphics[width=0.3\linewidth]{"imgs/Screenshot 2026-02-28 at 5.07.34 AM"}
+		\caption{A1 Execute}
+		\label{fig:screenshot-2026-02-28-at-5}
+	\end{figure}
+	
+	
+	
+\end{itemize}
 
 
 \end{document}
