@@ -1,12 +1,12 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.4.7)  1 MAR 2026 15:22
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.4.7)  11 AUG 2026 19:25
 entering extended mode
  restricted \write18 enabled.
+ file:line:error style messages enabled.
  %&-line parsing enabled.
-**template_Article.tex
-(./template_Article.tex
+**/Users/akd/Github/valorant-akagami-executes/template_Article.tex
+(/Users/akd/Github/valorant-akagami-executes/template_Article.tex
 LaTeX2e <2022-11-01> patch level 1
-L3 programming layer <2023-02-22>
-(/usr/local/texlive/2023/texmf-dist/tex/latex/base/article.cls
+L3 programming layer <2023-02-22> (/usr/local/texlive/2023/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2022/07/02 v1.4n Standard LaTeX document class
 (/usr/local/texlive/2023/texmf-dist/tex/latex/base/size11.clo
 File: size11.clo 2022/07/02 v1.4n Standard LaTeX file (size option)
@@ -22,42 +22,33 @@ File: size11.clo 2022/07/02 v1.4n Standard LaTeX file (size option)
 \abovecaptionskip=\skip48
 \belowcaptionskip=\skip49
 \bibindent=\dimen140
-)
-(/usr/local/texlive/2023/texmf-dist/tex/latex/graphics/graphicx.sty
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
-
-(/usr/local/texlive/2023/texmf-dist/tex/latex/graphics/keyval.sty
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
 \KV@toks@=\toks16
-)
-(/usr/local/texlive/2023/texmf-dist/tex/latex/graphics/graphics.sty
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/graphics/graphics.sty
 Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
-
-(/usr/local/texlive/2023/texmf-dist/tex/latex/graphics/trig.sty
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
-)
-(/usr/local/texlive/2023/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 107.
-
-(/usr/local/texlive/2023/texmf-dist/tex/latex/graphics-def/pdftex.def
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/graphics-def/pdftex.def
 File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen141
 \Gin@req@width=\dimen142
-)
-(/usr/local/texlive/2023/texmf-dist/tex/latex/base/latexsym.sty
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/base/latexsym.sty
 Package: latexsym 1998/08/17 v2.2e Standard LaTeX package (lasy symbols)
 \symlasy=\mathgroup4
 LaTeX Font Info:    Overwriting symbol font `lasy' in version `bold'
 (Font)                  U/lasy/m/n --> U/lasy/b/n on input line 52.
-)
-(/usr/local/texlive/2023/texmf-dist/tex/latex/preprint/fullpage.sty
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/preprint/fullpage.sty
 Package: fullpage 1999/02/23 1.1 (PWD)
 \FP@margin=\skip50
-)
-(/usr/local/texlive/2023/texmf-dist/tex/latex/titlesec/titlesec.sty
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/titlesec/titlesec.sty
 Package: titlesec 2021/07/05 v2.14 Sectioning titles
 \ttl@box=\box51
 \beforetitleunit=\skip51
@@ -68,29 +59,22 @@ Package: titlesec 2021/07/05 v2.14 Sectioning titles
 \titlewidth=\dimen145
 \titlewidthlast=\dimen146
 \titlewidthfirst=\dimen147
-)
-(/usr/local/texlive/2023/texmf-dist/tex/latex/marvosym/marvosym.sty
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/marvosym/marvosym.sty
 Package: marvosym 2011/07/20 v2.2 Martin Vogel's Symbols font definitions
-)
-(/usr/local/texlive/2023/texmf-dist/tex/latex/graphics/color.sty
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/graphics/color.sty
 Package: color 2022/01/06 v1.3d Standard LaTeX Color (DPC)
-
-(/usr/local/texlive/2023/texmf-dist/tex/latex/graphics-cfg/color.cfg
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/graphics-cfg/color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package color Info: Driver file: pdftex.def on input line 149.
-
-(/usr/local/texlive/2023/texmf-dist/tex/latex/graphics/dvipsnam.def
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/graphics/dvipsnam.def
 File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
-)
-(/usr/local/texlive/2023/texmf-dist/tex/latex/graphics/mathcolor.ltx))
-(/usr/local/texlive/2023/texmf-dist/tex/latex/tools/verbatim.sty
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/graphics/mathcolor.ltx)) (/usr/local/texlive/2023/texmf-dist/tex/latex/tools/verbatim.sty
 Package: verbatim 2022-07-02 v1.5u LaTeX2e package for verbatim enhancements
 \every@verbatim=\toks18
 \verbatim@line=\toks19
 \verbatim@in@stream=\read2
-)
-(/usr/local/texlive/2023/texmf-dist/tex/latex/enumitem/enumitem.sty
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/enumitem/enumitem.sty
 Package: enumitem 2019/06/20 v3.9 Customized lists
 \labelindent=\skip53
 \enit@outerparindent=\dimen148
@@ -98,53 +82,37 @@ Package: enumitem 2019/06/20 v3.9 Customized lists
 \enit@inbox=\box52
 \enit@count@id=\count193
 \enitdp@description=\count194
-)
-(/usr/local/texlive/2023/texmf-dist/tex/latex/hyperref/hyperref.sty
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/hyperref/hyperref.sty
 Package: hyperref 2023-02-07 v7.00v Hypertext links for LaTeX
-
-(/usr/local/texlive/2023/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+ (/usr/local/texlive/2023/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
 Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
-)
-(/usr/local/texlive/2023/texmf-dist/tex/generic/iftex/iftex.sty
+) (/usr/local/texlive/2023/texmf-dist/tex/generic/iftex/iftex.sty
 Package: iftex 2022/02/03 v1.0f TeX engine tests
-)
-(/usr/local/texlive/2023/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
-Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
-)
-
-(/usr/local/texlive/2023/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+) (/usr/local/texlive/2023/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
+ (/usr/local/texlive/2023/texmf-dist/tex/generic/infwarerr/infwarerr.sty
 Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
 )
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
-)
-(/usr/local/texlive/2023/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
 Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
-)
-(/usr/local/texlive/2023/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+) (/usr/local/texlive/2023/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
 Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
-)
-(/usr/local/texlive/2023/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+) (/usr/local/texlive/2023/texmf-dist/tex/generic/pdfescape/pdfescape.sty
 Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
-)
-(/usr/local/texlive/2023/texmf-dist/tex/latex/hycolor/hycolor.sty
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/hycolor/hycolor.sty
 Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
-)
-(/usr/local/texlive/2023/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
 Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
-)
-(/usr/local/texlive/2023/texmf-dist/tex/latex/auxhook/auxhook.sty
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/auxhook/auxhook.sty
 Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
-)
-(/usr/local/texlive/2023/texmf-dist/tex/latex/hyperref/nameref.sty
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2022-05-17 v2.50 Cross-referencing by name of section
-
-(/usr/local/texlive/2023/texmf-dist/tex/latex/refcount/refcount.sty
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/refcount/refcount.sty
 Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
-)
-(/usr/local/texlive/2023/texmf-dist/tex/generic/gettitlestring/gettitlestring.s
-ty
+) (/usr/local/texlive/2023/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
  (/usr/local/texlive/2023/texmf-dist/tex/latex/kvoptions/kvoptions.sty
 Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
@@ -154,21 +122,17 @@ Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
 \@linkdim=\dimen149
 \Hy@linkcounter=\count196
 \Hy@pagecounter=\count197
-
-(/usr/local/texlive/2023/texmf-dist/tex/latex/hyperref/pd1enc.def
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/hyperref/pd1enc.def
 File: pd1enc.def 2023-02-07 v7.00v Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
-)
-(/usr/local/texlive/2023/texmf-dist/tex/generic/intcalc/intcalc.sty
+) (/usr/local/texlive/2023/texmf-dist/tex/generic/intcalc/intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
-)
-(/usr/local/texlive/2023/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+) (/usr/local/texlive/2023/texmf-dist/tex/generic/etexcmds/etexcmds.sty
 Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
 )
 \Hy@SavedSpaceFactor=\count198
-
-(/usr/local/texlive/2023/texmf-dist/tex/latex/hyperref/puenc.def
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/hyperref/puenc.def
 File: puenc.def 2023-02-07 v7.00v Hyperref: PDF Unicode definition (HO)
 Now handling font encoding PU ...
 ... no UTF-8 mapping file for font encoding PU
@@ -181,20 +145,16 @@ Package hyperref Info: Backreferencing OFF on input line 4197.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4425.
 \c@Hy@tempcnt=\count199
-
-(/usr/local/texlive/2023/texmf-dist/tex/latex/url/url.sty
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip16
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 4763.
 \XeTeXLinkMargin=\dimen150
-
-(/usr/local/texlive/2023/texmf-dist/tex/generic/bitset/bitset.sty
+ (/usr/local/texlive/2023/texmf-dist/tex/generic/bitset/bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
-
-(/usr/local/texlive/2023/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
-Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
-)
+ (/usr/local/texlive/2023/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
 ))
 \Fld@menulength=\count266
 \Field@Width=\dimen151
@@ -206,8 +166,7 @@ Package hyperref Info: backreferencing OFF on input line 6057.
 Package hyperref Info: Link coloring OFF on input line 6062.
 Package hyperref Info: Link coloring with OCG OFF on input line 6067.
 Package hyperref Info: PDF/A mode OFF on input line 6072.
-
-(/usr/local/texlive/2023/texmf-dist/tex/latex/base/atbegshi-ltx.sty
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/base/atbegshi-ltx.sty
 Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
 package with kernel methods
 )
@@ -216,31 +175,24 @@ package with kernel methods
 \c@Hfootnote=\count269
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
-
-(/usr/local/texlive/2023/texmf-dist/tex/latex/hyperref/hpdftex.def
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/hyperref/hpdftex.def
 File: hpdftex.def 2023-02-07 v7.00v Hyperref driver for pdfTeX
-
-(/usr/local/texlive/2023/texmf-dist/tex/latex/base/atveryend-ltx.sty
-Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
-kage
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/base/atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend package
 with kernel methods
 )
 \Fld@listcount=\count270
 \c@bookmark@seq@number=\count271
-
-(/usr/local/texlive/2023/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
 Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
-
-(/usr/local/texlive/2023/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+ (/usr/local/texlive/2023/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
 Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 )
-Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
-85.
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 285.
 )
 \Hy@SectionHShift=\skip54
 ) (/usr/local/texlive/2023/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
 Package: fancyhdr 2022/11/09 v4.1 Extensive control of page headers and footers
-
 \f@nch@headwidth=\skip55
 \f@nch@O@elh=\skip56
 \f@nch@O@erh=\skip57
@@ -250,18 +202,15 @@ Package: fancyhdr 2022/11/09 v4.1 Extensive control of page headers and footers
 \f@nch@O@erf=\skip61
 \f@nch@O@olf=\skip62
 \f@nch@O@orf=\skip63
-)
-(/usr/local/texlive/2023/texmf-dist/tex/generic/babel/babel.sty
+) (/usr/local/texlive/2023/texmf-dist/tex/generic/babel/babel.sty
 Package: babel 2023/02/13 3.86 The Babel package
 \babel@savecnt=\count272
 \U@D=\dimen153
 \l@unhyphenated=\language87
-
-(/usr/local/texlive/2023/texmf-dist/tex/generic/babel/txtbabel.def)
+ (/usr/local/texlive/2023/texmf-dist/tex/generic/babel/txtbabel.def)
 \bbl@readstream=\read3
 \bbl@dirlevel=\count273
-
-(/usr/local/texlive/2023/texmf-dist/tex/generic/babel-english/english.ldf
+ (/usr/local/texlive/2023/texmf-dist/tex/generic/babel-english/english.ldf
 Language: english 2017/06/06 v3.3r English support from the babel system
 Package babel Info: Hyphen rules for 'canadian' set to \l@english
 (babel)             (\language0). Reported on input line 102.
@@ -269,15 +218,12 @@ Package babel Info: Hyphen rules for 'australian' set to \l@ukenglish
 (babel)             (\language21). Reported on input line 105.
 Package babel Info: Hyphen rules for 'newzealand' set to \l@ukenglish
 (babel)             (\language21). Reported on input line 108.
-))
-(/usr/local/texlive/2023/texmf-dist/tex/generic/babel/locale/en/babel-english.t
-ex
+)) (/usr/local/texlive/2023/texmf-dist/tex/generic/babel/locale/en/babel-english.tex
 Package babel Info: Importing font and identification data for english
 (babel)             from babel-en.ini. Reported on input line 11.
 ) (/usr/local/texlive/2023/texmf-dist/tex/latex/tools/tabularx.sty
 Package: tabularx 2020/01/15 v2.11c `tabularx' package (DPC)
-
-(/usr/local/texlive/2023/texmf-dist/tex/latex/tools/array.sty
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/tools/array.sty
 Package: array 2022/09/04 v2.5g Tabular extension package (FMi)
 \col@sep=\dimen154
 \ar@mcellbox=\box53
@@ -294,30 +240,21 @@ Package: array 2022/09/04 v2.5g Tabular extension package (FMi)
 \TX@delta=\dimen160
 \TX@cols=\count274
 \TX@ftn=\toks22
-)
-(/usr/local/texlive/2023/texmf-dist/tex/latex/hyphenat/hyphenat.sty
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/hyphenat/hyphenat.sty
 Package: hyphenat 2009/09/02 v2.3c hyphenation utilities
 \langwohyphens=\language88
 LaTeX Info: Redefining \_ on input line 43.
-)
-(/usr/local/texlive/2023/texmf-dist/tex/latex/fontawesome/fontawesome.sty
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/fontawesome/fontawesome.sty
 Package: fontawesome 2016/05/15 v4.6.3.1 font awesome icons
-
-(/usr/local/texlive/2023/texmf-dist/tex/generic/iftex/ifxetex.sty
+ (/usr/local/texlive/2023/texmf-dist/tex/generic/iftex/ifxetex.sty
 Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
-)
-(/usr/local/texlive/2023/texmf-dist/tex/generic/iftex/ifluatex.sty
+) (/usr/local/texlive/2023/texmf-dist/tex/generic/iftex/ifluatex.sty
 Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
-)
-(/usr/local/texlive/2023/texmf-dist/tex/latex/fontawesome/fontawesomesymbols-ge
-neric.tex)
-(/usr/local/texlive/2023/texmf-dist/tex/latex/fontawesome/fontawesomesymbols-pd
-ftex.tex)) (/usr/local/texlive/2023/texmf-dist/tex/latex/caption/subcaption.sty
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/fontawesome/fontawesomesymbols-generic.tex) (/usr/local/texlive/2023/texmf-dist/tex/latex/fontawesome/fontawesomesymbols-pdftex.tex)) (/usr/local/texlive/2023/texmf-dist/tex/latex/caption/subcaption.sty
 Package: subcaption 2023/02/19 v1.6 Sub-captions (AR)
-(/usr/local/texlive/2023/texmf-dist/tex/latex/caption/caption.sty
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/caption/caption.sty
 Package: caption 2023/03/12 v3.6j Customizing captions (AR)
-
-(/usr/local/texlive/2023/texmf-dist/tex/latex/caption/caption3.sty
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/caption/caption3.sty
 Package: caption3 2023/03/12 v2.4 caption3 kernel (AR)
 \caption@tempdima=\dimen161
 \captionmargin=\dimen162
@@ -337,20 +274,16 @@ Package caption Info: New subtype `subfigure' on input line 239.
 \c@subfigure=\count277
 Package caption Info: New subtype `subtable' on input line 239.
 \c@subtable=\count278
-)
-(/usr/local/texlive/2023/texmf-dist/tex/latex/capt-of/capt-of.sty
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/capt-of/capt-of.sty
 Package: capt-of 2009/12/29 v0.2 standard captions outside of floats
-)
-(/usr/local/texlive/2023/texmf-dist/tex/latex/xcolor/xcolor.sty
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/xcolor/xcolor.sty
 Package: xcolor 2022/06/12 v2.14 LaTeX color extensions (UK)
-
-(/usr/local/texlive/2023/texmf-dist/tex/latex/graphics-cfg/color.cfg
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/graphics-cfg/color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: pdftex.def on input line 227.
 LaTeX Info: Redefining \color on input line 711.
-
-(/usr/local/texlive/2023/texmf-dist/tex/latex/graphics/mathcolor.ltx)
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/graphics/mathcolor.ltx)
 Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1353.
 Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1357.
 Package xcolor Info: Model `RGB' extended on input line 1369.
@@ -360,8 +293,7 @@ Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1373.
 Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1374.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1375.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1376.
-)
-(/usr/local/texlive/2023/texmf-dist/tex/latex/listings/listings.sty
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/listings/listings.sty
 \lst@mode=\count279
 \lst@gtempboxa=\box55
 \lst@token=\toks23
@@ -374,34 +306,26 @@ Package xcolor Info: Model `wave' substituted by `hsb' on input line 1376.
 \lst@newlines=\count283
 \lst@lineno=\count284
 \lst@maxwidth=\dimen172
-
-(/usr/local/texlive/2023/texmf-dist/tex/latex/listings/lstmisc.sty
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/listings/lstmisc.sty
 File: lstmisc.sty 2023/02/27 1.9 (Carsten Heinz)
 \c@lstnumber=\count285
 \lst@skipnumbers=\count286
 \lst@framebox=\box56
-)
-(/usr/local/texlive/2023/texmf-dist/tex/latex/listings/listings.cfg
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/listings/listings.cfg
 File: listings.cfg 2023/02/27 1.9 listings configuration
 ))
 Package: listings 2023/02/27 1.9 (Carsten Heinz)
-
-(/usr/local/texlive/2023/texmf-dist/tex/latex/imakeidx/imakeidx.sty
-Package: imakeidx 2016/10/15 v1.3e Package for typesetting indices in a synchro
-nous mode
-
-(/usr/local/texlive/2023/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/imakeidx/imakeidx.sty
+Package: imakeidx 2016/10/15 v1.3e Package for typesetting indices in a synchronous mode
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/xkeyval/xkeyval.sty
 Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
-
-(/usr/local/texlive/2023/texmf-dist/tex/generic/xkeyval/xkeyval.tex
-(/usr/local/texlive/2023/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+ (/usr/local/texlive/2023/texmf-dist/tex/generic/xkeyval/xkeyval.tex (/usr/local/texlive/2023/texmf-dist/tex/generic/xkeyval/xkvutils.tex
 \XKV@toks=\toks24
 \XKV@tempa@toks=\toks25
 )
 \XKV@depth=\count287
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
-))
-(/usr/local/texlive/2023/texmf-dist/tex/latex/tools/multicol.sty
+)) (/usr/local/texlive/2023/texmf-dist/tex/latex/tools/multicol.sty
 Package: multicol 2021/11/30 v1.9d multicolumn formatting (FMi)
 \c@tracingmulticols=\count288
 \mult@box=\box57
@@ -469,16 +393,14 @@ Package: multicol 2021/11/30 v1.9d multicolumn formatting (FMi)
 \mult@nat@firstbox=\box100
 \colbreak@box=\box101
 \mc@col@check@num=\count297
-))
-(/usr/local/texlive/2023/texmf-dist/tex/latex/float/float.sty
+)) (/usr/local/texlive/2023/texmf-dist/tex/latex/float/float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \c@float@type=\count298
 \float@exts=\toks26
 \float@box=\box102
 \@float@everytoks=\toks27
 \@floatcapt=\box103
-)
-(/usr/local/texlive/2023/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/etoolbox/etoolbox.sty
 Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
 \etb@tempcnta=\count299
 )
@@ -487,119 +409,11 @@ Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
 
 
 Writing index file template_Article.idx
-(/usr/local/texlive/2023/texmf-dist/tex/generic/pdftex/glyphtounicode.tex)
-(/usr/local/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+(/usr/local/texlive/2023/texmf-dist/tex/generic/pdftex/glyphtounicode.tex) (/usr/local/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2023-01-16 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count300
 \l__pdf_internal_box=\box104
-)
-(./template_Article.aux
-
-LaTeX Warning: Label `fig:screenshot-2026-02-23-at-5' multiply defined.
-
-
-LaTeX Warning: Label `fig:screenshot-2026-02-23-at-6' multiply defined.
-
-
-LaTeX Warning: Label `fig:screenshot-2026-02-23-at-6' multiply defined.
-
-
-LaTeX Warning: Label `fig:screenshot-2026-02-23-at-7' multiply defined.
-
-
-LaTeX Warning: Label `fig:screenshot-2026-02-23-at-7' multiply defined.
-
-
-LaTeX Warning: Label `fig:screenshot-2026-02-23-at-7' multiply defined.
-
-
-LaTeX Warning: Label `fig:screenshot-2026-02-26-at-3' multiply defined.
-
-
-LaTeX Warning: Label `fig:screenshot-2026-02-26-at-3' multiply defined.
-
-
-LaTeX Warning: Label `fig:screenshot-2026-02-27-at-6' multiply defined.
-
-
-LaTeX Warning: Label `fig:screenshot-2026-02-27-at-6' multiply defined.
-
-
-LaTeX Warning: Label `fig:pistol-b-execute-1' multiply defined.
-
-
-LaTeX Warning: Label `sub@fig:pistol-b-execute-1' multiply defined.
-
-
-LaTeX Warning: Label `fig:pistol-b-execute-2' multiply defined.
-
-
-LaTeX Warning: Label `sub@fig:pistol-b-execute-2' multiply defined.
-
-
-LaTeX Warning: Label `fig:pistol-b-execute' multiply defined.
-
-
-LaTeX Warning: Label `fig:screenshot-2026-02-27-at-6' multiply defined.
-
-
-LaTeX Warning: Label `fig:pistol-b-execute-1' multiply defined.
-
-
-LaTeX Warning: Label `sub@fig:pistol-b-execute-1' multiply defined.
-
-
-LaTeX Warning: Label `fig:pistol-b-execute-2' multiply defined.
-
-
-LaTeX Warning: Label `sub@fig:pistol-b-execute-2' multiply defined.
-
-
-LaTeX Warning: Label `fig:pistol-b-execute' multiply defined.
-
-
-LaTeX Warning: Label `fig:screenshot-2026-02-27-at-8' multiply defined.
-
-
-LaTeX Warning: Label `fig:screenshot-2026-02-27-at-8' multiply defined.
-
-
-LaTeX Warning: Label `fig:screenshot-2026-02-28-at-4' multiply defined.
-
-
-LaTeX Warning: Label `fig:screenshot-2026-02-28-at-4' multiply defined.
-
-
-LaTeX Warning: Label `fig:screenshot-2026-02-28-at-4' multiply defined.
-
-
-LaTeX Warning: Label `fig:screenshot-2026-02-28-at-5' multiply defined.
-
-
-LaTeX Warning: Label `fig:screenshot-2026-02-28-at-5' multiply defined.
-
-
-LaTeX Warning: Label `fig:screenshot-2026-02-28-at-4' multiply defined.
-
-
-LaTeX Warning: Label `fig:screenshot-2026-02-28-at-4' multiply defined.
-
-
-LaTeX Warning: Label `fig:screenshot-2026-02-28-at-4' multiply defined.
-
-
-LaTeX Warning: Label `fig:screenshot-2026-02-28-at-4' multiply defined.
-
-
-LaTeX Warning: Label `fig:screenshot-2026-02-28-at-5' multiply defined.
-
-
-LaTeX Warning: Label `fig:screenshot-2026-02-28-at-5' multiply defined.
-
-
-LaTeX Warning: Label `fig:screenshot-2026-02-28-at-5' multiply defined.
-
-)
+) (./template_Article.aux)
 \openout1 = `template_Article.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 170.
@@ -635,16 +449,11 @@ LaTeX Font Info:    ... okay on input line 170.
 \everyMPtoPDFconversion=\toks29
 ) (/usr/local/texlive/2023/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
-Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
-85.
-
-(/usr/local/texlive/2023/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
-File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
-e
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
 Package hyperref Info: Link coloring OFF on input line 170.
-
-(./template_Article.out) (./template_Article.out)
 \@outlinefile=\write4
 \openout4 = `template_Article.out'.
 
@@ -664,21 +473,17 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 173.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 173.
-LaTeX Font Info:    Trying to load font information for U+lasy on input line 17
-3.
+LaTeX Font Info:    Trying to load font information for U+lasy on input line 173.
 (/usr/local/texlive/2023/texmf-dist/tex/latex/base/ulasy.fd
 File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
 ) [1
 
-{/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (./temp
-late_Article.toc
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 6.
-)
+{/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+No file template_Article.toc.
 \tf@toc=\write5
 \openout5 = `template_Article.toc'.
 
- [2
+[2
 
 ]
 
@@ -689,19 +494,15 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 [3
 
 {/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}]
-<imgs/Screenshot 2026-02-23 at 2.12.40 PM.png, id=103, 611.28375pt x 451.6875
-pt>
+<imgs/Screenshot 2026-02-23 at 2.12.40 PM.png, id=26, 611.28375pt x 451.6875pt>
 File: imgs/Screenshot 2026-02-23 at 2.12.40 PM.png Graphic file (type png)
 <use imgs/Screenshot 2026-02-23 at 2.12.40 PM.png>
-Package pdftex.def Info: imgs/Screenshot 2026-02-23 at 2.12.40 PM.png  used o
-n input line 257.
+Package pdftex.def Info: imgs/Screenshot 2026-02-23 at 2.12.40 PM.png  used on input line 257.
 (pdftex.def)             Requested size: 379.41585pt x 280.3535pt.
-<imgs/Screenshot 2026-02-26 at 1.33.53 AM.png, id=105, 377.41pt x 153.57375pt
->
+<imgs/Screenshot 2026-02-26 at 1.33.53 AM.png, id=28, 377.41pt x 153.57375pt>
 File: imgs/Screenshot 2026-02-26 at 1.33.53 AM.png Graphic file (type png)
 <use imgs/Screenshot 2026-02-26 at 1.33.53 AM.png>
-Package pdftex.def Info: imgs/Screenshot 2026-02-26 at 1.33.53 AM.png  used o
-n input line 264.
+Package pdftex.def Info: imgs/Screenshot 2026-02-26 at 1.33.53 AM.png  used on input line 264.
 (pdftex.def)             Requested size: 379.41585pt x 154.38884pt.
 
 
@@ -711,21 +512,16 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 
 [4
 
- <./imgs/Screenshot 2026-02-23 at 2.12.40 PM.png> <./imgs/Screenshot 2026-02-
-26 at 1.33.53 AM.png>]
-<imgs/Screenshot 2026-02-23 at 4.44.10 PM.png, id=114, 646.415pt x 364.36125p
-t>
+ <./imgs/Screenshot 2026-02-23 at 2.12.40 PM.png> <./imgs/Screenshot 2026-02-26 at 1.33.53 AM.png>]
+<imgs/Screenshot 2026-02-23 at 4.44.10 PM.png, id=39, 646.415pt x 364.36125pt>
 File: imgs/Screenshot 2026-02-23 at 4.44.10 PM.png Graphic file (type png)
 <use imgs/Screenshot 2026-02-23 at 4.44.10 PM.png>
-Package pdftex.def Info: imgs/Screenshot 2026-02-23 at 4.44.10 PM.png  used o
-n input line 279.
+Package pdftex.def Info: imgs/Screenshot 2026-02-23 at 4.44.10 PM.png  used on input line 279.
 (pdftex.def)             Requested size: 379.41585pt x 213.86488pt.
-<imgs/Screenshot 2026-02-23 at 5.10.22 PM.png, id=115, 569.12625pt x 278.0387
-6pt>
+<imgs/Screenshot 2026-02-23 at 5.10.22 PM.png, id=40, 569.12625pt x 278.03876pt>
 File: imgs/Screenshot 2026-02-23 at 5.10.22 PM.png Graphic file (type png)
 <use imgs/Screenshot 2026-02-23 at 5.10.22 PM.png>
-Package pdftex.def Info: imgs/Screenshot 2026-02-23 at 5.10.22 PM.png  used o
-n input line 297.
+Package pdftex.def Info: imgs/Screenshot 2026-02-23 at 5.10.22 PM.png  used on input line 297.
 (pdftex.def)             Requested size: 379.41585pt x 185.36436pt.
 
 Overfull \hbox (27.37506pt too wide) in paragraph at lines 309--311
@@ -739,67 +535,55 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 
 [5
 
- <./imgs/Screenshot 2026-02-23 at 4.44.10 PM.png> <./imgs/Screenshot 2026-02-
-23 at 5.10.22 PM.png>]
+ <./imgs/Screenshot 2026-02-23 at 4.44.10 PM.png> <./imgs/Screenshot 2026-02-23 at 5.10.22 PM.png>]
 
 Package fancyhdr Warning: \footskip is too small (0.0pt): 
 (fancyhdr)                Make it at least 4.08003pt, for example:
 (fancyhdr)                \setlength{\footskip}{4.08003pt}.
 
 [6]
-<imgs/Screenshot 2026-02-23 at 5.38.13 PM.png, id=128, 485.815pt x 378.41376p
-t>
+<imgs/Screenshot 2026-02-23 at 5.38.13 PM.png, id=54, 485.815pt x 378.41376pt>
 File: imgs/Screenshot 2026-02-23 at 5.38.13 PM.png Graphic file (type png)
 <use imgs/Screenshot 2026-02-23 at 5.38.13 PM.png>
-Package pdftex.def Info: imgs/Screenshot 2026-02-23 at 5.38.13 PM.png  used o
-n input line 325.
+Package pdftex.def Info: imgs/Screenshot 2026-02-23 at 5.38.13 PM.png  used on input line 325.
 (pdftex.def)             Requested size: 379.41585pt x 295.53685pt.
 
 Overfull \hbox (27.37506pt too wide) in paragraph at lines 333--335
 []  
  []
 
-<imgs/Screenshot 2026-02-23 at 6.11.10 PM.png, id=129, 270.00874pt x 224.84pt
->
+<imgs/Screenshot 2026-02-23 at 6.11.10 PM.png, id=55, 270.00874pt x 224.84pt>
 File: imgs/Screenshot 2026-02-23 at 6.11.10 PM.png Graphic file (type png)
 <use imgs/Screenshot 2026-02-23 at 6.11.10 PM.png>
-Package pdftex.def Info: imgs/Screenshot 2026-02-23 at 6.11.10 PM.png  used o
-n input line 342.
+Package pdftex.def Info: imgs/Screenshot 2026-02-23 at 6.11.10 PM.png  used on input line 342.
 (pdftex.def)             Requested size: 162.60915pt x 135.40936pt.
-<imgs/Screenshot 2026-02-23 at 6.30.43 PM.png, id=130, 493.845pt x 415.5525pt
->
+<imgs/Screenshot 2026-02-23 at 6.30.43 PM.png, id=56, 493.845pt x 415.5525pt>
 File: imgs/Screenshot 2026-02-23 at 6.30.43 PM.png Graphic file (type png)
 <use imgs/Screenshot 2026-02-23 at 6.30.43 PM.png>
-Package pdftex.def Info: imgs/Screenshot 2026-02-23 at 6.30.43 PM.png  used o
-n input line 356.
+Package pdftex.def Info: imgs/Screenshot 2026-02-23 at 6.30.43 PM.png  used on input line 356.
 (pdftex.def)             Requested size: 379.41585pt x 319.2599pt.
 
 Package fancyhdr Warning: \footskip is too small (0.0pt): 
 (fancyhdr)                Make it at least 4.08003pt, for example:
 (fancyhdr)                \setlength{\footskip}{4.08003pt}.
 
-[7 <./imgs/Screenshot 2026-02-23 at 5.38.13 PM.png> <./imgs/Screenshot 2026-0
-2-23 at 6.11.10 PM.png>]
+[7 <./imgs/Screenshot 2026-02-23 at 5.38.13 PM.png> <./imgs/Screenshot 2026-02-23 at 6.11.10 PM.png>]
 Overfull \hbox (27.37506pt too wide) in paragraph at lines 365--367
 []  
  []
 
-<imgs/Screenshot 2026-02-23 at 6.41.47 PM.png, id=140, 447.6725pt x 331.2375p
-t>
+<imgs/Screenshot 2026-02-23 at 6.41.47 PM.png, id=67, 447.6725pt x 331.2375pt>
 File: imgs/Screenshot 2026-02-23 at 6.41.47 PM.png Graphic file (type png)
 <use imgs/Screenshot 2026-02-23 at 6.41.47 PM.png>
-Package pdftex.def Info: imgs/Screenshot 2026-02-23 at 6.41.47 PM.png  used o
-n input line 373.
+Package pdftex.def Info: imgs/Screenshot 2026-02-23 at 6.41.47 PM.png  used on input line 373.
 (pdftex.def)             Requested size: 379.41585pt x 280.73946pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<imgs/Screenshot 2026-02-23 at 7.04.30 PM.png, id=141, 439.6425pt x 302.12875
-pt>
+<imgs/Screenshot 2026-02-23 at 7.04.30 PM.png, id=68, 439.6425pt x 302.12875pt>
 File: imgs/Screenshot 2026-02-23 at 7.04.30 PM.png Graphic file (type png)
 <use imgs/Screenshot 2026-02-23 at 7.04.30 PM.png>
-Package pdftex.def Info: imgs/Screenshot 2026-02-23 at 7.04.30 PM.png  used o
-n input line 380.
+Package pdftex.def Info: imgs/Screenshot 2026-02-23 at 7.04.30 PM.png  used on input line 380.
 (pdftex.def)             Requested size: 379.41585pt x 260.74768pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
@@ -815,14 +599,11 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                Make it at least 4.08003pt, for example:
 (fancyhdr)                \setlength{\footskip}{4.08003pt}.
 
-[9 <./imgs/Screenshot 2026-02-23 at 6.41.47 PM.png> <./imgs/Screenshot 2026-0
-2-23 at 7.04.30 PM.png>]
-<imgs/Screenshot 2026-02-23 at 7.27.41 PM.png, id=156, 693.59125pt x 385.44pt
->
+[9 <./imgs/Screenshot 2026-02-23 at 6.41.47 PM.png> <./imgs/Screenshot 2026-02-23 at 7.04.30 PM.png>]
+<imgs/Screenshot 2026-02-23 at 7.27.41 PM.png, id=84, 693.59125pt x 385.44pt>
 File: imgs/Screenshot 2026-02-23 at 7.27.41 PM.png Graphic file (type png)
 <use imgs/Screenshot 2026-02-23 at 7.27.41 PM.png>
-Package pdftex.def Info: imgs/Screenshot 2026-02-23 at 7.27.41 PM.png  used o
-n input line 395.
+Package pdftex.def Info: imgs/Screenshot 2026-02-23 at 7.27.41 PM.png  used on input line 395.
 (pdftex.def)             Requested size: 379.41585pt x 210.85167pt.
 
 Overfull \hbox (27.37506pt too wide) in paragraph at lines 407--409
@@ -834,22 +615,18 @@ Overfull \hbox (27.37506pt too wide) in paragraph at lines 412--414
 []  
  []
 
-<imgs/Screenshot 2026-02-23 at 7.40.22 PM.png, id=157, 615.29875pt x 431.6125
-pt>
+<imgs/Screenshot 2026-02-23 at 7.40.22 PM.png, id=85, 615.29875pt x 431.6125pt>
 File: imgs/Screenshot 2026-02-23 at 7.40.22 PM.png Graphic file (type png)
 <use imgs/Screenshot 2026-02-23 at 7.40.22 PM.png>
-Package pdftex.def Info: imgs/Screenshot 2026-02-23 at 7.40.22 PM.png  used o
-n input line 419.
+Package pdftex.def Info: imgs/Screenshot 2026-02-23 at 7.40.22 PM.png  used on input line 419.
 (pdftex.def)             Requested size: 379.41585pt x 266.15466pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<imgs/Screenshot 2026-02-23 at 7.48.07 PM.png, id=158, 598.235pt x 326.21875p
-t>
+<imgs/Screenshot 2026-02-23 at 7.48.07 PM.png, id=86, 598.235pt x 326.21875pt>
 File: imgs/Screenshot 2026-02-23 at 7.48.07 PM.png Graphic file (type png)
 <use imgs/Screenshot 2026-02-23 at 7.48.07 PM.png>
-Package pdftex.def Info: imgs/Screenshot 2026-02-23 at 7.48.07 PM.png  used o
-n input line 426.
+Package pdftex.def Info: imgs/Screenshot 2026-02-23 at 7.48.07 PM.png  used on input line 426.
 (pdftex.def)             Requested size: 379.41585pt x 206.8977pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
@@ -867,14 +644,11 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                Make it at least 4.08003pt, for example:
 (fancyhdr)                \setlength{\footskip}{4.08003pt}.
 
-[11 <./imgs/Screenshot 2026-02-23 at 7.40.22 PM.png> <./imgs/Screenshot 2026-
-02-23 at 7.48.07 PM.png>]
-<imgs/Screenshot 2026-02-26 at 2.41.20 AM.png, id=174, 392.46625pt x 419.5675
-pt>
+[11 <./imgs/Screenshot 2026-02-23 at 7.40.22 PM.png> <./imgs/Screenshot 2026-02-23 at 7.48.07 PM.png>]
+<imgs/Screenshot 2026-02-26 at 2.41.20 AM.png, id=102, 392.46625pt x 419.5675pt>
 File: imgs/Screenshot 2026-02-26 at 2.41.20 AM.png Graphic file (type png)
 <use imgs/Screenshot 2026-02-26 at 2.41.20 AM.png>
-Package pdftex.def Info: imgs/Screenshot 2026-02-26 at 2.41.20 AM.png  used o
-n input line 447.
+Package pdftex.def Info: imgs/Screenshot 2026-02-26 at 2.41.20 AM.png  used on input line 447.
 (pdftex.def)             Requested size: 379.41585pt x 405.64194pt.
 
 
@@ -885,35 +659,28 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 [12
 
  <./imgs/Screenshot 2026-02-26 at 2.41.20 AM.png>]
-<imgs/Screenshot 2026-02-26 at 3.18.48 AM.png, id=181, 249.93375pt x 250.9375
-pt>
+<imgs/Screenshot 2026-02-26 at 3.18.48 AM.png, id=110, 249.93375pt x 250.9375pt>
 File: imgs/Screenshot 2026-02-26 at 3.18.48 AM.png Graphic file (type png)
 <use imgs/Screenshot 2026-02-26 at 3.18.48 AM.png>
-Package pdftex.def Info: imgs/Screenshot 2026-02-26 at 3.18.48 AM.png  used o
-n input line 462.
+Package pdftex.def Info: imgs/Screenshot 2026-02-26 at 3.18.48 AM.png  used on input line 462.
 (pdftex.def)             Requested size: 216.80669pt x 217.6859pt.
-<imgs/Screenshot 2026-02-26 at 3.42.30 AM.png, id=182, 480.79625pt x 278.0387
-6pt>
+<imgs/Screenshot 2026-02-26 at 3.42.30 AM.png, id=111, 480.79625pt x 278.03876pt>
 File: imgs/Screenshot 2026-02-26 at 3.42.30 AM.png Graphic file (type png)
 <use imgs/Screenshot 2026-02-26 at 3.42.30 AM.png>
-Package pdftex.def Info: imgs/Screenshot 2026-02-26 at 3.42.30 AM.png  used o
-n input line 473.
+Package pdftex.def Info: imgs/Screenshot 2026-02-26 at 3.42.30 AM.png  used on input line 473.
 (pdftex.def)             Requested size: 271.0125pt x 156.72733pt.
 File: imgs/Screenshot 2026-02-26 at 3.42.30 AM.png Graphic file (type png)
 <use imgs/Screenshot 2026-02-26 at 3.42.30 AM.png>
-Package pdftex.def Info: imgs/Screenshot 2026-02-26 at 3.42.30 AM.png  used o
-n input line 482.
+Package pdftex.def Info: imgs/Screenshot 2026-02-26 at 3.42.30 AM.png  used on input line 482.
 (pdftex.def)             Requested size: 271.0125pt x 156.72733pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<imgs/Screenshot 2026-02-26 at 4.01.36 AM.png, id=183, 211.79124pt x 283.0575
-pt>
+<imgs/Screenshot 2026-02-26 at 4.01.36 AM.png, id=112, 211.79124pt x 283.0575pt>
 File: imgs/Screenshot 2026-02-26 at 4.01.36 AM.png Graphic file (type png)
 <use imgs/Screenshot 2026-02-26 at 4.01.36 AM.png>
-Package pdftex.def Info: imgs/Screenshot 2026-02-26 at 4.01.36 AM.png  used o
-n input line 489.
+Package pdftex.def Info: imgs/Screenshot 2026-02-26 at 4.01.36 AM.png  used on input line 489.
 (pdftex.def)             Requested size: 271.0125pt x 362.22163pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
@@ -925,36 +692,39 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 
 [13
 
- <./imgs/Screenshot 2026-02-26 at 3.18.48 AM.png> <./imgs/Screenshot 2026-02-
-26 at 3.42.30 AM.png>]
+ <./imgs/Screenshot 2026-02-26 at 3.18.48 AM.png> <./imgs/Screenshot 2026-02-26 at 3.42.30 AM.png>]
 
 Package fancyhdr Warning: \footskip is too small (0.0pt): 
 (fancyhdr)                Make it at least 4.08003pt, for example:
 (fancyhdr)                \setlength{\footskip}{4.08003pt}.
 
 [14 <./imgs/Screenshot 2026-02-26 at 4.01.36 AM.png>]
-<imgs/Screenshot 2026-02-26 at 11.44.23 PM.png, id=200, 180.675pt x 205.76875
-pt>
+<imgs/Screenshot 2026-02-26 at 11.44.23 PM.png, id=129, 180.675pt x 205.76875pt>
 File: imgs/Screenshot 2026-02-26 at 11.44.23 PM.png Graphic file (type png)
 <use imgs/Screenshot 2026-02-26 at 11.44.23 PM.png>
-Package pdftex.def Info: imgs/Screenshot 2026-02-26 at 11.44.23 PM.png  used 
-on input line 510.
+Package pdftex.def Info: imgs/Screenshot 2026-02-26 at 11.44.23 PM.png  used on input line 510.
 (pdftex.def)             Requested size: 128.35428pt x 146.1816pt.
-<imgs/Screenshot 2026-02-27 at 6.42.16 AM.png, id=201, 185.69376pt x 188.705p
-t>
-File: imgs/Screenshot 2026-02-27 at 6.42.16 AM.png Graphic file (type png)
-<use imgs/Screenshot 2026-02-27 at 6.42.16 AM.png>
-Package pdftex.def Info: imgs/Screenshot 2026-02-27 at 6.42.16 AM.png  used o
-n input line 516.
-(pdftex.def)             Requested size: 144.17986pt x 146.52127pt.
-<imgs/Screenshot 2026-02-26 at 11.55.07 PM.png, id=202, 383.4325pt x 354.3237
-5pt>
+
+
+LaTeX Warning: File `"imgs/Screenshot 2026-02-27 at 6.42.16 AM"' not found on input line 516.
+
+
+/Users/akd/Github/valorant-akagami-executes/template_Article.tex:516: LaTeX Error: Unknown graphics extension: .16 AM.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.516 ...s/Screenshot 2026-02-27 at 6.42.16 AM"}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+<imgs/Screenshot 2026-02-26 at 11.55.07 PM.png, id=130, 383.4325pt x 354.32375pt>
 File: imgs/Screenshot 2026-02-26 at 11.55.07 PM.png Graphic file (type png)
 <use imgs/Screenshot 2026-02-26 at 11.55.07 PM.png>
-Package pdftex.def Info: imgs/Screenshot 2026-02-26 at 11.55.07 PM.png  used 
-on input line 528.
+Package pdftex.def Info: imgs/Screenshot 2026-02-26 at 11.55.07 PM.png  used on input line 528.
 (pdftex.def)             Requested size: 216.80669pt x 200.35007pt.
-
 
 Package fancyhdr Warning: \footskip is too small (0.0pt): 
 (fancyhdr)                Make it at least 4.08003pt, for example:
@@ -962,21 +732,16 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 
 [15
 
- <./imgs/Screenshot 2026-02-26 at 11.44.23 PM.png> <./imgs/Screenshot 2026-02
--27 at 6.42.16 AM.png> <./imgs/Screenshot 2026-02-26 at 11.55.07 PM.png>]
-<imgs/Screenshot 2026-02-27 at 6.05.00 AM.png, id=212, 202.7575pt x 234.8775p
-t>
+ <./imgs/Screenshot 2026-02-26 at 11.44.23 PM.png> <./imgs/Screenshot 2026-02-26 at 11.55.07 PM.png>]
+<imgs/Screenshot 2026-02-27 at 6.05.00 AM.png, id=141, 202.7575pt x 234.8775pt>
 File: imgs/Screenshot 2026-02-27 at 6.05.00 AM.png Graphic file (type png)
 <use imgs/Screenshot 2026-02-27 at 6.05.00 AM.png>
-Package pdftex.def Info: imgs/Screenshot 2026-02-27 at 6.05.00 AM.png  used o
-n input line 555.
+Package pdftex.def Info: imgs/Screenshot 2026-02-27 at 6.05.00 AM.png  used on input line 555.
 (pdftex.def)             Requested size: 162.60915pt x 188.37532pt.
-<imgs/Screenshot 2026-02-27 at 6.06.09 AM.png, id=213, 117.43875pt x 89.33376
-pt>
+<imgs/Screenshot 2026-02-27 at 6.06.09 AM.png, id=142, 117.43875pt x 89.33376pt>
 File: imgs/Screenshot 2026-02-27 at 6.06.09 AM.png Graphic file (type png)
 <use imgs/Screenshot 2026-02-27 at 6.06.09 AM.png>
-Package pdftex.def Info: imgs/Screenshot 2026-02-27 at 6.06.09 AM.png  used o
-n input line 562.
+Package pdftex.def Info: imgs/Screenshot 2026-02-27 at 6.06.09 AM.png  used on input line 562.
 (pdftex.def)             Requested size: 162.60915pt x 123.69508pt.
 
 
@@ -986,27 +751,21 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 
 [16
 
- <./imgs/Screenshot 2026-02-27 at 6.05.00 AM.png> <./imgs/Screenshot 2026-02-
-27 at 6.06.09 AM.png>]
-<imgs/Screenshot 2026-02-27 at 6.07.18 AM.png, id=222, 240.9pt x 351.3125pt>
+ <./imgs/Screenshot 2026-02-27 at 6.05.00 AM.png> <./imgs/Screenshot 2026-02-27 at 6.06.09 AM.png>]
+<imgs/Screenshot 2026-02-27 at 6.07.18 AM.png, id=152, 240.9pt x 351.3125pt>
 File: imgs/Screenshot 2026-02-27 at 6.07.18 AM.png Graphic file (type png)
 <use imgs/Screenshot 2026-02-27 at 6.07.18 AM.png>
-Package pdftex.def Info: imgs/Screenshot 2026-02-27 at 6.07.18 AM.png  used o
-n input line 572.
+Package pdftex.def Info: imgs/Screenshot 2026-02-27 at 6.07.18 AM.png  used on input line 572.
 (pdftex.def)             Requested size: 162.60915pt x 237.14177pt.
-<imgs/Screenshot 2026-02-27 at 6.09.50 AM.png, id=223, 142.5325pt x 181.67876
-pt>
+<imgs/Screenshot 2026-02-27 at 6.09.50 AM.png, id=153, 142.5325pt x 181.67876pt>
 File: imgs/Screenshot 2026-02-27 at 6.09.50 AM.png Graphic file (type png)
 <use imgs/Screenshot 2026-02-27 at 6.09.50 AM.png>
-Package pdftex.def Info: imgs/Screenshot 2026-02-27 at 6.09.50 AM.png  used o
-n input line 587.
+Package pdftex.def Info: imgs/Screenshot 2026-02-27 at 6.09.50 AM.png  used on input line 587.
 (pdftex.def)             Requested size: 160.44225pt x 204.50728pt.
-<imgs/Screenshot 2026-02-27 at 6.10.36 AM.png, id=224, 185.69376pt x 175.6562
-5pt>
+<imgs/Screenshot 2026-02-27 at 6.10.36 AM.png, id=154, 185.69376pt x 175.65625pt>
 File: imgs/Screenshot 2026-02-27 at 6.10.36 AM.png Graphic file (type png)
 <use imgs/Screenshot 2026-02-27 at 6.10.36 AM.png>
-Package pdftex.def Info: imgs/Screenshot 2026-02-27 at 6.10.36 AM.png  used o
-n input line 593.
+Package pdftex.def Info: imgs/Screenshot 2026-02-27 at 6.10.36 AM.png  used on input line 593.
 (pdftex.def)             Requested size: 216.80669pt x 205.09348pt.
 
 
@@ -1016,13 +775,11 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 
 [17
 
- <./imgs/Screenshot 2026-02-27 at 6.07.18 AM.png> <./imgs/Screenshot 2026-02-
-27 at 6.09.50 AM.png> <./imgs/Screenshot 2026-02-27 at 6.10.36 AM.png>]
-<imgs/Screenshot 2026-02-27 at 6.22.00 AM.png, id=234, 208.78pt x 204.765pt>
+ <./imgs/Screenshot 2026-02-27 at 6.07.18 AM.png> <./imgs/Screenshot 2026-02-27 at 6.09.50 AM.png> <./imgs/Screenshot 2026-02-27 at 6.10.36 AM.png>]
+<imgs/Screenshot 2026-02-27 at 6.22.00 AM.png, id=164, 208.78pt x 204.765pt>
 File: imgs/Screenshot 2026-02-27 at 6.22.00 AM.png Graphic file (type png)
 <use imgs/Screenshot 2026-02-27 at 6.22.00 AM.png>
-Package pdftex.def Info: imgs/Screenshot 2026-02-27 at 6.22.00 AM.png  used o
-n input line 608.
+Package pdftex.def Info: imgs/Screenshot 2026-02-27 at 6.22.00 AM.png  used on input line 608.
 (pdftex.def)             Requested size: 216.80669pt x 212.6506pt.
 
 
@@ -1033,56 +790,146 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 [18
 
  <./imgs/Screenshot 2026-02-27 at 6.22.00 AM.png>]
-<imgs/Screenshot 2026-02-27 at 7.45.05 AM.png, id=241, 266.9975pt x 292.09125
-pt>
-File: imgs/Screenshot 2026-02-27 at 7.45.05 AM.png Graphic file (type png)
-<use imgs/Screenshot 2026-02-27 at 7.45.05 AM.png>
-Package pdftex.def Info: imgs/Screenshot 2026-02-27 at 7.45.05 AM.png  used o
-n input line 628.
-(pdftex.def)             Requested size: 216.80669pt x 237.19429pt.
-<imgs/Screenshot 2026-02-27 at 7.53.47 AM.png, id=242, 183.68625pt x 231.8662
-6pt>
-File: imgs/Screenshot 2026-02-27 at 7.53.47 AM.png Graphic file (type png)
-<use imgs/Screenshot 2026-02-27 at 7.53.47 AM.png>
-Package pdftex.def Info: imgs/Screenshot 2026-02-27 at 7.53.47 AM.png  used o
-n input line 640.
-(pdftex.def)             Requested size: 160.44225pt x 202.53928pt.
-<imgs/Screenshot 2026-02-27 at 8.02.32 AM.png, id=243, 214.8025pt x 237.88875
-pt>
-File: imgs/Screenshot 2026-02-27 at 8.02.32 AM.png Graphic file (type png)
-<use imgs/Screenshot 2026-02-27 at 8.02.32 AM.png>
-Package pdftex.def Info: imgs/Screenshot 2026-02-27 at 8.02.32 AM.png  used o
-n input line 646.
-(pdftex.def)             Requested size: 184.287pt x 204.09755pt.
+
+LaTeX Warning: File `"imgs/Screenshot 2026-02-27 at 7.45.05 AM"' not found on input line 628.
+
+
+/Users/akd/Github/valorant-akagami-executes/template_Article.tex:628: LaTeX Error: Unknown graphics extension: .05 AM.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.628 ...s/Screenshot 2026-02-27 at 7.45.05 AM"}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+LaTeX Warning: File `"imgs/Screenshot 2026-02-27 at 7.53.47 AM"' not found on input line 640.
+
+
+/Users/akd/Github/valorant-akagami-executes/template_Article.tex:640: LaTeX Error: Unknown graphics extension: .47 AM.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.640 ...s/Screenshot 2026-02-27 at 7.53.47 AM"}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+LaTeX Warning: File `"imgs/Screenshot 2026-02-27 at 8.02.32 AM"' not found on input line 646.
+
+
+/Users/akd/Github/valorant-akagami-executes/template_Article.tex:646: LaTeX Error: Unknown graphics extension: .32 AM.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.646 ...s/Screenshot 2026-02-27 at 8.02.32 AM"}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
 
 
 Package fancyhdr Warning: \footskip is too small (0.0pt): 
 (fancyhdr)                Make it at least 4.08003pt, for example:
 (fancyhdr)                \setlength{\footskip}{4.08003pt}.
 
-[19 <./imgs/Screenshot 2026-02-27 at 7.45.05 AM.png> <./imgs/Screenshot 2026-
-02-27 at 7.53.47 AM.png> <./imgs/Screenshot 2026-02-27 at 8.02.32 AM.png>]
-<imgs/Screenshot 2026-02-27 at 8.11.19 AM.png, id=254, 211.79124pt x 238.8925
-pt>
-File: imgs/Screenshot 2026-02-27 at 8.11.19 AM.png Graphic file (type png)
-<use imgs/Screenshot 2026-02-27 at 8.11.19 AM.png>
-Package pdftex.def Info: imgs/Screenshot 2026-02-27 at 8.11.19 AM.png  used o
-n input line 661.
-(pdftex.def)             Requested size: 162.60915pt x 183.42287pt.
-<imgs/Screenshot 2026-02-27 at 8.13.52 AM.png, id=255, 172.645pt x 222.8325pt
->
-File: imgs/Screenshot 2026-02-27 at 8.13.52 AM.png Graphic file (type png)
-<use imgs/Screenshot 2026-02-27 at 8.13.52 AM.png>
-Package pdftex.def Info: imgs/Screenshot 2026-02-27 at 8.13.52 AM.png  used o
-n input line 669.
-(pdftex.def)             Requested size: 108.40334pt x 139.91599pt.
-<imgs/Screenshot 2026-02-27 at 8.16.50 AM.png, id=256, 219.82124pt x 169.6337
-4pt>
-File: imgs/Screenshot 2026-02-27 at 8.16.50 AM.png Graphic file (type png)
-<use imgs/Screenshot 2026-02-27 at 8.16.50 AM.png>
-Package pdftex.def Info: imgs/Screenshot 2026-02-27 at 8.16.50 AM.png  used o
-n input line 676.
-(pdftex.def)             Requested size: 162.60915pt x 125.48816pt.
+[19]
+
+LaTeX Warning: File `"imgs/Screenshot 2026-02-27 at 8.11.19 AM"' not found on input line 661.
+
+
+/Users/akd/Github/valorant-akagami-executes/template_Article.tex:661: LaTeX Error: Unknown graphics extension: .19 AM.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.661 ...s/Screenshot 2026-02-27 at 8.11.19 AM"}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+LaTeX Warning: File `"imgs/Screenshot 2026-02-27 at 8.13.52 AM"' not found on input line 669.
+
+
+/Users/akd/Github/valorant-akagami-executes/template_Article.tex:669: LaTeX Error: Unknown graphics extension: .52 AM.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.669 ...s/Screenshot 2026-02-27 at 8.13.52 AM"}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+LaTeX Warning: File `"imgs/Screenshot 2026-02-27 at 8.16.50 AM"' not found on input line 676.
+
+
+/Users/akd/Github/valorant-akagami-executes/template_Article.tex:676: LaTeX Error: Unknown graphics extension: .50 AM.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.676 ...s/Screenshot 2026-02-27 at 8.16.50 AM"}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+LaTeX Warning: File `"imgs/Screenshot 2026-02-28 at 4.42.28 AM"' not found on input line 696.
+
+
+/Users/akd/Github/valorant-akagami-executes/template_Article.tex:696: LaTeX Error: Unknown graphics extension: .28 AM.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.696 ...s/Screenshot 2026-02-28 at 4.42.28 AM"}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+LaTeX Warning: File `"imgs/Screenshot 2026-02-28 at 4.48.19 AM"' not found on input line 705.
+
+
+/Users/akd/Github/valorant-akagami-executes/template_Article.tex:705: LaTeX Error: Unknown graphics extension: .19 AM.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.705 ...s/Screenshot 2026-02-28 at 4.48.19 AM"}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+LaTeX Warning: File `"imgs/Screenshot 2026-02-28 at 4.54.56 AM"' not found on input line 714.
+
+
+/Users/akd/Github/valorant-akagami-executes/template_Article.tex:714: LaTeX Error: Unknown graphics extension: .56 AM.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.714 ...s/Screenshot 2026-02-28 at 4.54.56 AM"}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
 
 
 Package fancyhdr Warning: \footskip is too small (0.0pt): 
@@ -1091,58 +938,74 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 
 [20
 
- <./imgs/Screenshot 2026-02-27 at 8.11.19 AM.png> <./imgs/Screenshot 2026-02-
-27 at 8.13.52 AM.png> <./imgs/Screenshot 2026-02-27 at 8.16.50 AM.png>]
-<imgs/Screenshot 2026-02-28 at 4.42.28 AM.png, id=267, 315.1775pt x 217.81375
-pt>
-File: imgs/Screenshot 2026-02-28 at 4.42.28 AM.png Graphic file (type png)
-<use imgs/Screenshot 2026-02-28 at 4.42.28 AM.png>
-Package pdftex.def Info: imgs/Screenshot 2026-02-28 at 4.42.28 AM.png  used o
-n input line 696.
-(pdftex.def)             Requested size: 216.80669pt x 149.83298pt.
-<imgs/Screenshot 2026-02-28 at 4.48.19 AM.png, id=268, 339.2675pt x 203.76125
-pt>
-File: imgs/Screenshot 2026-02-28 at 4.48.19 AM.png Graphic file (type png)
-<use imgs/Screenshot 2026-02-28 at 4.48.19 AM.png>
-Package pdftex.def Info: imgs/Screenshot 2026-02-28 at 4.48.19 AM.png  used o
-n input line 705.
-(pdftex.def)             Requested size: 271.0125pt x 162.77292pt.
-<imgs/Screenshot 2026-02-28 at 4.54.56 AM.png, id=269, 335.2525pt x 181.67876
-pt>
-File: imgs/Screenshot 2026-02-28 at 4.54.56 AM.png Graphic file (type png)
-<use imgs/Screenshot 2026-02-28 at 4.54.56 AM.png>
-Package pdftex.def Info: imgs/Screenshot 2026-02-28 at 4.54.56 AM.png  used o
-n input line 714.
-(pdftex.def)             Requested size: 162.60915pt x 88.11963pt.
+]
+
+LaTeX Warning: File `"imgs/Screenshot 2026-02-28 at 4.53.14 AM"' not found on input line 725.
+
+
+/Users/akd/Github/valorant-akagami-executes/template_Article.tex:725: LaTeX Error: Unknown graphics extension: .14 AM.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.725 ...s/Screenshot 2026-02-28 at 4.53.14 AM"}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+LaTeX Warning: File `"imgs/Screenshot 2026-02-28 at 5.00.24 AM"' not found on input line 734.
+
+
+/Users/akd/Github/valorant-akagami-executes/template_Article.tex:734: LaTeX Error: Unknown graphics extension: .24 AM.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.734 ...s/Screenshot 2026-02-28 at 5.00.24 AM"}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+LaTeX Warning: File `"imgs/Screenshot 2026-02-28 at 5.02.08 AM"' not found on input line 742.
+
+
+/Users/akd/Github/valorant-akagami-executes/template_Article.tex:742: LaTeX Error: Unknown graphics extension: .08 AM.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.742 ...s/Screenshot 2026-02-28 at 5.02.08 AM"}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
 
 
 Package fancyhdr Warning: \footskip is too small (0.0pt): 
 (fancyhdr)                Make it at least 4.08003pt, for example:
 (fancyhdr)                \setlength{\footskip}{4.08003pt}.
 
-[21 <./imgs/Screenshot 2026-02-28 at 4.42.28 AM.png> <./imgs/Screenshot 2026-
-02-28 at 4.48.19 AM.png> <./imgs/Screenshot 2026-02-28 at 4.54.56 AM.png>]
-<imgs/Screenshot 2026-02-28 at 4.53.14 AM.png, id=280, 321.2pt x 215.80624pt>
+[21
 
-File: imgs/Screenshot 2026-02-28 at 4.53.14 AM.png Graphic file (type png)
-<use imgs/Screenshot 2026-02-28 at 4.53.14 AM.png>
-Package pdftex.def Info: imgs/Screenshot 2026-02-28 at 4.53.14 AM.png  used o
-n input line 725.
-(pdftex.def)             Requested size: 162.60915pt x 109.25624pt.
-<imgs/Screenshot 2026-02-28 at 5.00.24 AM.png, id=281, 270.00874pt x 251.9412
-5pt>
-File: imgs/Screenshot 2026-02-28 at 5.00.24 AM.png Graphic file (type png)
-<use imgs/Screenshot 2026-02-28 at 5.00.24 AM.png>
-Package pdftex.def Info: imgs/Screenshot 2026-02-28 at 5.00.24 AM.png  used o
-n input line 734.
-(pdftex.def)             Requested size: 162.60915pt x 151.73102pt.
-<imgs/Screenshot 2026-02-28 at 5.02.08 AM.png, id=282, 223.83624pt x 209.7837
-5pt>
-File: imgs/Screenshot 2026-02-28 at 5.02.08 AM.png Graphic file (type png)
-<use imgs/Screenshot 2026-02-28 at 5.02.08 AM.png>
-Package pdftex.def Info: imgs/Screenshot 2026-02-28 at 5.02.08 AM.png  used o
-n input line 742.
-(pdftex.def)             Requested size: 108.40334pt x 101.60094pt.
+]
+
+LaTeX Warning: File `"imgs/Screenshot 2026-02-28 at 5.07.34 AM"' not found on input line 752.
+
+
+/Users/akd/Github/valorant-akagami-executes/template_Article.tex:752: LaTeX Error: Unknown graphics extension: .34 AM.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.752 ...s/Screenshot 2026-02-28 at 5.07.34 AM"}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
 
 
 Package fancyhdr Warning: \footskip is too small (0.0pt): 
@@ -1151,15 +1014,51 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 
 [22
 
- <./imgs/Screenshot 2026-02-28 at 4.53.14 AM.png> <./imgs/Screenshot 2026-02-
-28 at 5.00.24 AM.png> <./imgs/Screenshot 2026-02-28 at 5.02.08 AM.png>]
-<imgs/Screenshot 2026-02-28 at 5.07.34 AM.png, id=293, 215.80624pt x 193.7237
-5pt>
-File: imgs/Screenshot 2026-02-28 at 5.07.34 AM.png Graphic file (type png)
-<use imgs/Screenshot 2026-02-28 at 5.07.34 AM.png>
-Package pdftex.def Info: imgs/Screenshot 2026-02-28 at 5.07.34 AM.png  used o
-n input line 752.
-(pdftex.def)             Requested size: 162.60915pt x 145.97528pt.
+]
+
+LaTeX Warning: File `"imgs/Screenshot 2026-02-28 at 4.42.28 AM"' not found on input line 773.
+
+
+/Users/akd/Github/valorant-akagami-executes/template_Article.tex:773: LaTeX Error: Unknown graphics extension: .28 AM.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.773 ...s/Screenshot 2026-02-28 at 4.42.28 AM"}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+LaTeX Warning: File `"imgs/Screenshot 2026-02-28 at 4.48.19 AM"' not found on input line 782.
+
+
+/Users/akd/Github/valorant-akagami-executes/template_Article.tex:782: LaTeX Error: Unknown graphics extension: .19 AM.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.782 ...s/Screenshot 2026-02-28 at 4.48.19 AM"}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+LaTeX Warning: File `"imgs/Screenshot 2026-02-28 at 4.54.56 AM"' not found on input line 791.
+
+
+/Users/akd/Github/valorant-akagami-executes/template_Article.tex:791: LaTeX Error: Unknown graphics extension: .56 AM.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.791 ...s/Screenshot 2026-02-28 at 4.54.56 AM"}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
 
 
 Package fancyhdr Warning: \footskip is too small (0.0pt): 
@@ -1168,22 +1067,51 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 
 [23
 
- <./imgs/Screenshot 2026-02-28 at 5.07.34 AM.png>]
-File: imgs/Screenshot 2026-02-28 at 4.42.28 AM.png Graphic file (type png)
-<use imgs/Screenshot 2026-02-28 at 4.42.28 AM.png>
-Package pdftex.def Info: imgs/Screenshot 2026-02-28 at 4.42.28 AM.png  used o
-n input line 773.
-(pdftex.def)             Requested size: 216.80669pt x 149.83298pt.
-File: imgs/Screenshot 2026-02-28 at 4.48.19 AM.png Graphic file (type png)
-<use imgs/Screenshot 2026-02-28 at 4.48.19 AM.png>
-Package pdftex.def Info: imgs/Screenshot 2026-02-28 at 4.48.19 AM.png  used o
-n input line 782.
-(pdftex.def)             Requested size: 271.0125pt x 162.77292pt.
-File: imgs/Screenshot 2026-02-28 at 4.54.56 AM.png Graphic file (type png)
-<use imgs/Screenshot 2026-02-28 at 4.54.56 AM.png>
-Package pdftex.def Info: imgs/Screenshot 2026-02-28 at 4.54.56 AM.png  used o
-n input line 791.
-(pdftex.def)             Requested size: 162.60915pt x 88.11963pt.
+]
+
+LaTeX Warning: File `"imgs/Screenshot 2026-02-28 at 4.53.14 AM"' not found on input line 802.
+
+
+/Users/akd/Github/valorant-akagami-executes/template_Article.tex:802: LaTeX Error: Unknown graphics extension: .14 AM.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.802 ...s/Screenshot 2026-02-28 at 4.53.14 AM"}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+LaTeX Warning: File `"imgs/Screenshot 2026-02-28 at 5.00.24 AM"' not found on input line 811.
+
+
+/Users/akd/Github/valorant-akagami-executes/template_Article.tex:811: LaTeX Error: Unknown graphics extension: .24 AM.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.811 ...s/Screenshot 2026-02-28 at 5.00.24 AM"}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+LaTeX Warning: File `"imgs/Screenshot 2026-02-28 at 5.02.08 AM"' not found on input line 819.
+
+
+/Users/akd/Github/valorant-akagami-executes/template_Article.tex:819: LaTeX Error: Unknown graphics extension: .08 AM.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.819 ...s/Screenshot 2026-02-28 at 5.02.08 AM"}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
 
 
 Package fancyhdr Warning: \footskip is too small (0.0pt): 
@@ -1193,21 +1121,20 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 [24
 
 ]
-File: imgs/Screenshot 2026-02-28 at 4.53.14 AM.png Graphic file (type png)
-<use imgs/Screenshot 2026-02-28 at 4.53.14 AM.png>
-Package pdftex.def Info: imgs/Screenshot 2026-02-28 at 4.53.14 AM.png  used o
-n input line 802.
-(pdftex.def)             Requested size: 162.60915pt x 109.25624pt.
-File: imgs/Screenshot 2026-02-28 at 5.00.24 AM.png Graphic file (type png)
-<use imgs/Screenshot 2026-02-28 at 5.00.24 AM.png>
-Package pdftex.def Info: imgs/Screenshot 2026-02-28 at 5.00.24 AM.png  used o
-n input line 811.
-(pdftex.def)             Requested size: 162.60915pt x 151.73102pt.
-File: imgs/Screenshot 2026-02-28 at 5.02.08 AM.png Graphic file (type png)
-<use imgs/Screenshot 2026-02-28 at 5.02.08 AM.png>
-Package pdftex.def Info: imgs/Screenshot 2026-02-28 at 5.02.08 AM.png  used o
-n input line 819.
-(pdftex.def)             Requested size: 108.40334pt x 101.60094pt.
+
+LaTeX Warning: File `"imgs/Screenshot 2026-02-28 at 5.07.34 AM"' not found on input line 829.
+
+
+/Users/akd/Github/valorant-akagami-executes/template_Article.tex:829: LaTeX Error: Unknown graphics extension: .34 AM.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.829 ...s/Screenshot 2026-02-28 at 5.07.34 AM"}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
 
 
 Package fancyhdr Warning: \footskip is too small (0.0pt): 
@@ -1216,48 +1143,35 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 
 [25
 
-]
-File: imgs/Screenshot 2026-02-28 at 5.07.34 AM.png Graphic file (type png)
-<use imgs/Screenshot 2026-02-28 at 5.07.34 AM.png>
-Package pdftex.def Info: imgs/Screenshot 2026-02-28 at 5.07.34 AM.png  used o
-n input line 829.
-(pdftex.def)             Requested size: 162.60915pt x 145.97528pt.
-
-
-Package fancyhdr Warning: \footskip is too small (0.0pt): 
-(fancyhdr)                Make it at least 4.08003pt, for example:
-(fancyhdr)                \setlength{\footskip}{4.08003pt}.
-
-[26
-
 ] (./template_Article.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 
-LaTeX Warning: There were multiply-defined labels.
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
-Package rerunfilecheck Info: File `template_Article.out' has not changed.
-(rerunfilecheck)             Checksum: 725D798E23DC66699D0D8447D044CAEB;2698.
+
+Package rerunfilecheck Warning: File `template_Article.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `template_Article.out':
+(rerunfilecheck)             Before: <no file>
+(rerunfilecheck)             After:  725D798E23DC66699D0D8447D044CAEB;2698.
  ) 
 Here is how much of TeX's memory you used:
- 17035 strings out of 476025
- 288377 string characters out of 5790018
+ 17299 strings out of 476025
+ 302810 string characters out of 5790018
  1867388 words of memory out of 5000000
- 37071 multiletter control sequences out of 15000+600000
- 518835 words of font info for 56 fonts, out of 8000000 for 9000
+ 37329 multiletter control sequences out of 15000+600000
+ 518113 words of font info for 53 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,11n,77p,382b,702s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
-></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
-</usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb>
-</usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></
-usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></us
-r/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb>
-Output written on template_Article.pdf (26 pages, 2685397 bytes).
+ 75i,11n,77p,426b,702s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb>
+Output written on template_Article.pdf (25 pages, 2041883 bytes).
 PDF statistics:
- 370 PDF objects out of 1000 (max. 8388607)
- 251 compressed objects within 3 object streams
- 86 named destinations out of 1000 (max. 500000)
- 319 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 272 PDF objects out of 1000 (max. 8388607)
+ 183 compressed objects within 2 object streams
+ 85 named destinations out of 1000 (max. 500000)
+ 121 words of extra memory for PDF output out of 10000 (max. 10000000)
 

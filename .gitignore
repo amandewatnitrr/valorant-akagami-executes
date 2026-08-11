@@ -1,0 +1,5 @@
+*.log
+*.toc
+*.idx
+*.fls
+*.fdb_latexmk
